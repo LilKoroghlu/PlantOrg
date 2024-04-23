@@ -1,0 +1,1267 @@
+
+<!doctype html>
+<html lang="en">
+
+
+<!-- Mirrored from dootnode.themesbrand.website/ by HTTrack Website Copier/3.x [XR&CO'2014], Sun, 29 Oct 2023 21:48:59 GMT -->
+<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=utf-8" /><!-- /Added by HTTrack -->
+<head>
+
+    <meta charset="utf-8" />
+    <title>Chat | Doot - Responsive Nodejs Chat App</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta
+        content="Doot - Responsive Chat App Template in HTML. A fully featured HTML chat messenger template in Bootstrap 5"
+        name="description" />
+    <meta name="keywords"
+        content="Doot chat template, chat, web chat template, chat status, chat template, communication, discussion, group chat, message, messenger template, status" />
+    <meta content="Themesbrand" name="author" />
+    <!-- App favicon -->
+    <link rel="shortcut icon" href="assets/images/favicon.ico">
+    <!-- glightbox css -->
+    <link rel="stylesheet" href="assets/libs/glightbox/css/glightbox.min.css">
+    <!-- swiper css -->
+    <link rel="stylesheet" href="assets/libs/swiper/swiper-bundle.min.css">
+    <!-- Sweet Alert css-->
+    <link href="assets/libs/sweetalert2/sweetalert2.min.css" rel="stylesheet" type="text/css" />
+    <!-- Bootstrap Css -->
+    <link href="assets/css/bootstrap.min.css" id="bootstrap-style" rel="stylesheet" type="text/css" />
+    <!-- Icons Css -->
+    <link href="assets/css/icons.min.css" rel="stylesheet" type="text/css" />
+    <!-- App Css-->
+    <link href="assets/css/app.min.css" id="app-style" rel="stylesheet" type="text/css" />
+    <link href="assets/css/toastr.min.css" rel="stylesheet" />
+    <!-- Custom css -->
+    <link href="assets/css/custom.css" rel="stylesheet" />
+    <link href="/chatstyle.css" rel="stylesheet" />
+
+    <script src="https://kit.fontawesome.com/8de7712d48.js" crossorigin="anonymous"></script>
+
+</head>
+
+<body>
+    <div class="layout-wrapper d-lg-flex">
+        <!-- Start left sidebar-menu -->
+        <div class="side-menu flex-lg-column">
+            <!-- LOGO -->
+            <div class="navbar-brand-box">
+                <a href="#" class="logo logo-dark">
+                    <span class="logo-sm">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" viewBox="0 0 24 24">
+                            <path
+                                d="M8.5,18l3.5,4l3.5-4H19c1.103,0,2-0.897,2-2V4c0-1.103-0.897-2-2-2H5C3.897,2,3,2.897,3,4v12c0,1.103,0.897,2,2,2H8.5z M7,7h10v2H7V7z M7,11h7v2H7V11z" />
+                        </svg>
+                    </span>
+                </a>
+
+                <a href="#" class="logo logo-light">
+                    <span class="logo-sm">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" viewBox="0 0 24 24">
+                            <path
+                                d="M8.5,18l3.5,4l3.5-4H19c1.103,0,2-0.897,2-2V4c0-1.103-0.897-2-2-2H5C3.897,2,3,2.897,3,4v12c0,1.103,0.897,2,2,2H8.5z M7,7h10v2H7V7z M7,11h7v2H7V11z" />
+                        </svg>
+                    </span>
+                </a>
+            </div>
+            <!-- end navbar-brand-box -->
+
+            <!-- Start side-menu nav -->
+            <div class="flex-lg-column my-0 sidemenu-navigation">
+                <ul class="nav nav-pills side-menu-nav" role="tablist">
+                    <li class="nav-item d-none d-lg-block" data-bs-toggle="tooltip" data-bs-placement="right"
+                        data-bs-trigger="hover" data-bs-container=".sidemenu-navigation" title="Profil">
+                        <a class="nav-link" id="pills-user-tab" data-bs-toggle="pill" href="#pills-user" role="tab">
+                            <i class='bx bx-user-circle'></i>
+                        </a>
+                    </li>
+                    <li class="nav-item" data-bs-toggle="tooltip" data-bs-placement="right" data-bs-trigger="hover"
+                        data-bs-container=".sidemenu-navigation" title="Mesajlar">
+                        <a class="nav-link" id="pills-chat-tab" data-bs-toggle="pill" href="#pills-chat" role="tab">
+                            <i class='bx bx-conversation'></i>
+                        </a>
+                    </li>
+                    <li class="nav-item" data-bs-toggle="tooltip" data-bs-placement="right"
+                        data-bs-container=".sidemenu-navigation" data-bs-trigger="hover" title="Tənzimləmələr">
+                        <a class="nav-link active" id="pills-setting-tab" data-bs-toggle="pill" href="#pills-setting">
+                            <i class='bx bx-cog'></i>
+                        </a>
+                    </li>
+                    <li class="nav-item mt-auto">
+                        <a class="nav-link light-dark" href="#" data-bs-toggle="tooltip" data-bs-trigger="hover"
+                            data-bs-placement="right" data-bs-container=".sidemenu-navigation" data-bs-html="true"
+                            title="<span class='light-mode'>Açıq</span> <span class='dark-mode'>Qaranlıq</span> Mod">
+                            <i class='bx bx-moon'></i>
+                        </a>
+                    </li>
+                    <li class="nav-item dropdown profile-user-dropdown">
+                        <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown"
+                            aria-haspopup="true" aria-expanded="false">
+                            <img src="assets/images/users/avatar-1.jpg" alt=""
+                                class="profile-user rounded-circle user-profile-image">
+                        </a>
+                        <div class="dropdown-menu">
+                            <a class="dropdown-item d-flex align-items-center justify-content-between"
+                                id="pills-user-tab" data-bs-toggle="pill" href="#pills-user" role="tab"">Profil <i class="bx bx-user-circle text-muted ms-1"></i></a>
+                            <a class="dropdown-item d-flex align-items-center justify-content-between"
+                                id="pills-setting-tab" data-bs-toggle="pill" href="#pills-setting" role="tab"">Tənzimləmələr <i class="bx bx-cog text-muted ms-1"></i></a>
+                            <a class="dropdown-item d-flex align-items-center justify-content-between"
+                                href="reset-password.html">Şifrəni dəyiş <i
+                                    class="bx bx-lock-open text-muted ms-1"></i></a>
+                            <div class="dropdown-divider"></div>
+                            <a class="dropdown-item d-flex align-items-center justify-content-between logout_btn"
+                                href="/PlantOrgLogin.html">Hesabdan çıxış<i
+                                    class="bx bx-log-out-circle text-muted ms-1"></i></a>
+                        </div>
+                    </li>
+                </ul>
+            </div>
+            <!-- end side-menu nav -->
+        </div>
+        <!-- end left sidebar-menu -->
+
+        <!-- start chat-leftsidebar -->
+        <div class="chat-leftsidebar">
+
+            <div class="tab-content">
+                <!-- Start Profile tab-pane -->
+                <div class="tab-pane" id="pills-user" role="tabpanel" aria-labelledby="pills-user-tab">
+                    <!-- Start profile content -->
+                    <div>
+                        <div class="user-profile-img">
+                            <img src="assets/images/small/img-4.jpg"
+                                class="profile-img profile-foreground-img user_bg_img" style="height: 160px;" alt="">
+                            <div class="overlay-content">
+                                <div>
+                                    <div class="user-chat-nav p-2 ps-3">
+
+                                        <div class="d-flex w-100 align-items-center">
+                                            <div class="flex-grow-1">
+                                                <h5 class="text-white mb-0">Profilim</h5>
+                                            </div>
+                                            <div class="flex-shrink-0">
+                                                <div class="dropdown">
+                                                    <button class="btn nav-btn text-white dropdown-toggle" type="button"
+                                                        data-bs-toggle="dropdown" aria-haspopup="true"
+                                                        aria-expanded="false">
+                                                        <i class='bx bx-dots-vertical-rounded'></i>
+                                                    </button>
+                                                    <div class="dropdown-menu dropdown-menu-end">
+                                                        <a class="dropdown-item d-flex align-items-center justify-content-between"
+                                                            href="#">Məlumat <i
+                                                                class="bx bx-info-circle ms-2 text-muted"></i></a>
+                                                        <a class="dropdown-item d-flex align-items-center justify-content-between"
+                                                            href="#">Tənzimləmələr <i
+                                                                class="bx bx-cog text-muted ms-2"></i></a>
+                                                        <div class="dropdown-divider"></div>
+                                                        <a class="dropdown-item d-flex align-items-center justify-content-between"
+                                                            href="#">Yardım <i
+                                                                class="bx bx-help-circle ms-2 text-muted"></i></a>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="text-center p-3 p-lg-4 border-bottom pt-2 pt-lg-2 mt-n5 position-relative">
+                            <div class="mb-lg-3 mb-2">
+                                <img src="assets/images/users/avatar-1.jpg"
+                                    class="rounded-circle avatar-lg img-thumbnail user-profile-image" alt="">
+                            </div>
+
+                            <h5 class="font-size-16 mb-1 text-truncate user_name">Adam Zampa</h5>
+                        </div>
+                        <!-- End profile user -->
+
+                        <!-- Start user-profile-desc -->
+                        <div class="p-4 profile-desc" data-simplebar>
+                            
+
+                            <div>
+                                <div class="d-flex py-2">
+                                    <div class="flex-shrink-0 me-3">
+                                        <i class="bx bx-user align-middle text-muted"></i>
+                                    </div>
+                                    <div class="flex-grow-1">
+                                        <p class="mb-0 user_name">Adam Zampa</p>
+                                    </div>
+                                </div>
+
+                                <div class="d-flex py-2">
+                                    <div class="flex-shrink-0 me-3">
+                                        <i class="bx bx-message-rounded-dots align-middle text-muted"></i>
+                                    </div>
+                                    <div class="flex-grow-1">
+                                        <p class="mb-0 user_email">adc@123.com</p>
+                                    </div>
+                                </div>
+
+                                <div class="d-flex py-2">
+                                    <div class="flex-shrink-0 me-3">
+                                        <i class="bx bx-location-plus align-middle text-muted"></i>
+                                    </div>
+                                    <div class="flex-grow-1">
+                                        <p class="mb-0 user_location">California, USA</p>
+                                    </div>
+                                </div>
+
+                            </div>
+
+                            
+
+                        </div>
+                        <!-- end user-profile-desc -->
+
+                    </div>
+                    <!-- End profile content -->
+                </div>
+                <!-- End Profile tab-pane -->
+
+                <!-- Start chats tab-pane -->
+                <div class="tab-pane" id="pills-chat" role="tabpanel" aria-labelledby="pills-chat-tab">
+                    <!-- Start chats content -->
+                    <div>
+                        <div class="px-4 pt-4">
+                            <div class="d-flex align-items-start">
+                                <div class="flex-grow-1">
+                                    <h4 class="mb-4">Mesajlar</h4>
+                                </div>
+                                <div class="flex-shrink-0">
+                                    <div data-bs-toggle="tooltip" data-bs-trigger="hover" data-bs-placement="bottom"
+                                        title="Müraciət yarat">
+                                        <!-- Button trigger modal -->
+                                        <button class="btn btn-soft-primary btn-sm addChatUser" id ="addChatUser">
+                                            <i class="bx bx-plus"></i>
+                                        </button>
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- <form>
+                                <div class="input-group mb-3">
+                                    <input type="text" class="form-control bg-light border-0 pe-0" id="serachChatUser"
+                                        onkeyup="searchUser()" placeholder="Search here.."
+                                        aria-label="Example text with button addon" aria-describedby="searchbtn-addon"
+                                        autocomplete="off">
+                                    <button class="btn btn-light" type="button" id="searchbtn-addon"><i
+                                            class='bx bx-search align-middle'></i></button>
+                                </div>
+                            </form> -->
+                        </div> <!-- .p-4 -->
+
+                        <div class="chat-room-list" data-simplebar>
+                            <!-- Start chat-message-list -->
+                            
+
+                            <div class="chat-message-list">
+                                <ul class="list-unstyled chat-list chat-user-list" id="favourite-users">
+                                    <li id="favourite-append"></li>
+                                </ul>
+                            </div>
+
+                            
+
+
+
+                            
+
+                            <div class="chat-message-list">
+                                <ul class="list-unstyled chat-list chat-user-list mb-3" id="channelList"></ul>
+                            </div>
+
+                            <div id="userList" class="user-list">
+                            </div>
+                            <!-- End chat-message-list -->
+                        </div>
+
+                    </div>
+                    <!-- Start chats content -->
+
+                    <!-- Start add group Modal -->
+                    
+                    <!-- End add group Modal -->
+
+                    <!-- Start Group Member Add Modal -->
+                    
+                    <!-- End Group Member Add Modal -->
+
+                </div>
+                <!-- End chats tab-pane -->
+
+                <!-- Start contacts tab-pane -->
+                
+                <!-- End contacts tab-pane -->
+
+                <!-- Start calls tab-pane -->
+                
+                <!-- End calls tab-pane -->
+
+                <!-- Start calls tab-pane -->
+                
+                <!-- End calls tab-pane -->
+
+                <!-- Start settings tab-pane -->
+                <div class="tab-pane show active" id="pills-setting" role="tabpanel"
+                    aria-labelledby="pills-setting-tab">
+                    <!-- Start Settings content -->
+                    <div>
+                        <div class="user-profile-img">
+                            <img src="assets/images/small/img-4.jpg" class="profile-img user_bg_img"
+                                style="height: 160px;" alt="">
+                            <div class="overlay-content">
+                                <div>
+                                    <div class="user-chat-nav p-3">
+                                        <div class="d-flex w-100 align-items-center">
+                                            <div class="flex-grow-1">
+                                                <h5 class="text-white mb-0" id="settings-text">Tənzimləmələr</h5>
+                                            </div>
+                                            <div class="flex-shrink-0">
+                                                <div class="avatar-xs p-0 rounded-circle profile-photo-edit"
+                                                    data-bs-toggle="tooltip" data-bs-trigger="hover"
+                                                    data-bs-placement="bottom" title="Change Background">
+                                                    <input id="profile_bg_img" type="file"
+                                                        class="profile_bg_img d-none">
+                                                    <label for="profile_bg_img" class="profile-photo-edit avatar-xs">
+                                                        <span class="avatar-title rounded-circle bg-light text-body">
+                                                            <i class="bx bxs-pencil"></i>
+                                                        </span>
+                                                    </label>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="text-center p-3 p-lg-4 border-bottom pt-2 pt-lg-2 mt-n5 position-relative">
+                            <div class="mb-3 profile-user">
+                                <div class="camera_profile">
+                                    <img src=""
+                                        class="rounded-circle avatar-lg img-thumbnail user-profile-image"
+                                        alt="user-profile-image">
+                                </div>
+
+                                <div class="avatar-xs p-0 rounded-circle profile-photo-edit">
+                                    <input id="" type="file" class="profile-file-input d-none">
+                                    <label for="profile-img-file-input" class="profile-photo-edit avatar-xs"
+                                        onclick="profileCamera()">
+                                        <span class="avatar-title rounded-circle bg-light text-body">
+                                            <i class="bx bxs-camera"></i>
+                                        </span>
+                                    </label>
+                                </div>
+                                <div class="profile_view"></div>
+                            </div>
+
+                            <h5 class="font-size-16 mb-1 text-truncate"></h5>
+                        </div>
+                        <!-- End profile user -->
+
+                        <!-- Start User profile description -->
+                        <div class="user-setting" data-simplebar>
+                            <div id="settingprofile" class="accordion accordion-flush">
+                                <div class="accordion-item">
+                                    <div class="accordion-header" id="headerpersonalinfo">
+                                        <button class="accordion-button font-size-14 fw-medium" type="button"
+                                            data-bs-toggle="collapse" data-bs-target="#personalinfo"
+                                            aria-expanded="true" aria-controls="personalinfo">
+                                            <i class="bx bxs-user text-muted me-3"></i> Şəxsi məlumatlar
+                                        </button>
+                                    </div>
+                                    <div id="personalinfo" class="accordion-collapse collapse"
+                                        aria-labelledby="headerpersonalinfo" data-bs-parent="#settingprofile">
+                                        <div class="accordion-body">
+                                            <div class="float-end">
+                                                <button type="button" class="btn btn-soft-primary btn-sm"
+                                                    id="user_name_edit" onclick="edit_userName(this)"><i
+                                                        class="bx bxs-pencil align-middle"></i></button>
+                                            </div>
+                                            <div>
+                                                <p class="text-muted mb-1">Ad</p>
+                                                <h5 class="font-size-14 user_name" id="user_name">Adam Zampa</h5>
+                                                <div id="edit-user-name"
+                                                    class="visually-hidden d-flex justify-content-between">
+                                                    <input type="text" name="name" id="userName" value=""
+                                                        class="form-control bg-soft-light border-light"
+                                                        maxlength="20" />
+                                                    <div class="float-right">
+                                                        <button type="submit" id="receiverSave"
+                                                            onclick="userNameChange(this)"
+                                                            class="btn btn-primary btn-block waves-effect waves-light"
+                                                            style="display: block;">
+                                                            Yadda saxla</button>
+                                                    </div>
+                                                </div>
+                                            </div>
+
+                                            <div class="mt-4">
+                                                <p class="text-muted mb-1">Email</p>
+                                                <h5 class="font-size-14 user_email">adc@123.com</h5>
+                                            </div>
+
+                                            <div class="mt-4">
+                                                <p class="text-muted mb-1">Ünvan</p>
+                                                <h5 class="font-size-14 mb-0 user_location">California, USA</h5>
+                                            </div>
+
+                                            <div class="mt-4">
+                                                <div class="d-flex">
+                                                    <div class="flex-grow-1">
+                                                        <p class="text-muted mb-1">Status</p>
+                                                    </div>
+                                                    <div class="flex-shrink-0">
+                                                        <button type="button" class="btn btn-soft-primary btn-sm mb-1"
+                                                            id="user_status_edit"><i
+                                                                class="bx bxs-pencil align-middle"></i></button>
+                                                    </div>
+                                                </div>
+                                                <h5 class="font-size-14 mb-0 user_status" id="user_status"></h5>
+                                                <div id="edit-user-status" class="visually-hidden">
+                                                    <div class="position-relative">
+                                                        <textarea id="userStatus"
+                                                            class="form-control bg-soft-light border-light pe-5"
+                                                            rows="3"></textarea>
+                                                        <button type="button"
+                                                            class="btn btn-link text-decoration-none btn-lg waves-effect py-2 px-3 position-absolute top-0 end-0 userStatusEmoji"
+                                                            id="userStatusEmoji" onclick="UserStatusEmojiPicker()">
+                                                            <i class="bx bx-smile align-middle"></i>
+                                                        </button>
+                                                    </div>
+
+                                                    <button type="submit" id="receiverSave"
+                                                        onclick="userStatusChange(this)"
+                                                        class="btn btn-primary btn-block waves-effect waves-light mt-2 ms-auto"
+                                                        style="display: block;">
+                                                        Yadda saxla</button>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <!-- end personal info card -->
+
+                                <div class="accordion-item">
+                                    <div class="accordion-header" id="headerthemes">
+                                        <button class="accordion-button font-size-14 fw-medium collapsed" type="button"
+                                            data-bs-toggle="collapse" data-bs-target="#collapsethemes"
+                                            aria-expanded="false" aria-controls="collapsethemes">
+                                            <i class="bx bxs-adjust-alt text-muted me-3"></i> Arxa fon
+                                        </button>
+                                    </div>
+                                    <div id="collapsethemes" class="accordion-collapse collapse"
+                                        aria-labelledby="headerthemes" data-bs-parent="#settingprofile">
+                                        <div class="accordion-body">
+                                            <div>
+                                                <h5 class="mb-3 font-size-11 text-muted text-uppercase">Fon seçin
+                                                    :</h5>
+                                                <h5 class="font-size-14 user_themeColor"></h5>
+                                                <div
+                                                    class="d-flex align-items-center flex-wrap gap-2 theme-btn-list theme-color-list">
+                                                    <div class="form-check">
+                                                        <input class="form-check-input theme-color" type="radio"
+                                                            value="78, 172, 109" name="bgcolor-radio"
+                                                            id="bgcolor-radio1">
+                                                        <label class="form-check-label avatar-xs" for="bgcolor-radio1">
+                                                            <span
+                                                                class="avatar-title bg-primary-custom rounded-circle theme-btn bgcolor-radio1"></span>
+                                                        </label>
+                                                    </div>
+                                                    <div class="form-check">
+                                                        <input class="form-check-input theme-color" type="radio"
+                                                            value="80, 165, 241" name="bgcolor-radio"
+                                                            id="bgcolor-radio2">
+                                                        <label class="form-check-label avatar-xs" for="bgcolor-radio2">
+                                                            <span
+                                                                class="avatar-title bg-info rounded-circle theme-btn bgcolor-radio2"></span>
+                                                        </label>
+                                                    </div>
+                                                    <div class="form-check">
+                                                        <input class="form-check-input theme-color" type="radio"
+                                                            value="97, 83, 204" name="bgcolor-radio"
+                                                            id="bgcolor-radio4">
+                                                        <label class="form-check-label avatar-xs" for="bgcolor-radio4">
+                                                            <span
+                                                                class="avatar-title bg-purple rounded-circle theme-btn bgcolor-radio4"></span>
+                                                        </label>
+                                                    </div>
+
+                                                    <div class="form-check">
+                                                        <input class="form-check-input theme-color" type="radio"
+                                                            value="232, 62, 140" name="bgcolor-radio"
+                                                            id="bgcolor-radio5">
+                                                        <label class="form-check-label avatar-xs" for="bgcolor-radio5">
+                                                            <span
+                                                                class="avatar-title bg-pink rounded-circle theme-btn bgcolor-radio5"></span>
+                                                        </label>
+                                                    </div>
+                                                    <div class="form-check">
+                                                        <input class="form-check-input theme-color" type="radio"
+                                                            value="239, 71, 111" name="bgcolor-radio"
+                                                            id="bgcolor-radio6">
+                                                        <label class="form-check-label avatar-xs" for="bgcolor-radio6">
+                                                            <span
+                                                                class="avatar-title bg-danger rounded-circle theme-btn bgcolor-radio6"></span>
+                                                        </label>
+                                                    </div>
+                                                    <div class="form-check">
+                                                        <input class="form-check-input theme-color" type="radio"
+                                                            value="121, 124, 140" name="bgcolor-radio"
+                                                            id="bgcolor-radio7">
+                                                        <label class="form-check-label avatar-xs" for="bgcolor-radio7">
+                                                            <span
+                                                                class="avatar-title bg-secondary rounded-circle theme-btn bgcolor-radio7"></span>
+                                                        </label>
+                                                    </div>
+                                                    <div class="form-check">
+                                                        <input class="form-check-input theme-color" type="radio"
+                                                            value="121, 124, 140" name="bgcolor-radio"
+                                                            id="bgcolor-radio8" checked>
+                                                        <label class="form-check-label avatar-xs light-background"
+                                                            for="bgcolor-radio8">
+                                                            <span
+                                                                class="avatar-title bg-light rounded-circle theme-btn bgcolor-radio8"></span>
+                                                        </label>
+                                                    </div>
+                                                </div>
+                                            </div>
+
+                                            <div class="mt-4 pt-2">
+                                                <h5 class="mb-3 font-size-11 text-muted text-uppercase">Fon şəkli seçin :</h5>
+                                                <h5 class="font-size-14 user_themeImage"></h5>
+                                                <div
+                                                    class="d-flex align-items-center flex-wrap gap-2 theme-btn-list theme-btn-list-img">
+                                                    <div class="form-check">
+                                                        <input class="form-check-input theme-img" type="radio"
+                                                            name="bgimg-radio" id="bgimg-radio1" value="bgimg-radio1"
+                                                            checked>
+                                                        <label class="form-check-label avatar-xs" for="bgimg-radio1"
+                                                            data-bs-trigger="hover focus" data-bs-toggle="popover"
+                                                            data-bs-placement="top" data-bs-html="true"
+                                                            data-bs-content='<div class="avatar-lg bg-light m-n2 bg-pattern-1"></div>'>
+                                                            <span
+                                                                class="avatar-title rounded-circle theme-btn bgimg-radio1"
+                                                                style="background-image: url('assets/images/bg-pattern/pattern-01.png')"></span>
+                                                        </label>
+                                                    </div>
+                                                    <div class="form-check">
+                                                        <input class="form-check-input theme-img" type="radio"
+                                                            name="bgimg-radio" id="bgimg-radio2" value="bgimg-radio2">
+                                                        <label class="form-check-label avatar-xs" for="bgimg-radio2"
+                                                            data-bs-trigger="hover focus" data-bs-toggle="popover"
+                                                            data-bs-placement="top" data-bs-html="true"
+                                                            data-bs-content='<div class="avatar-lg bg-light m-n2 bg-pattern-2"></div>'>
+                                                            <span
+                                                                class="avatar-title rounded-circle theme-btn bgimg-radio2"
+                                                                style="background-image: url('assets/images/bg-pattern/pattern-02.png')"></span>
+                                                        </label>
+
+                                                    </div>
+                                                    <div class="form-check">
+                                                        <input class="form-check-input theme-img" type="radio"
+                                                            name="bgimg-radio" id="bgimg-radio3" value="bgimg-radio3">
+
+                                                        <label class="form-check-label avatar-xs" for="bgimg-radio3"
+                                                            data-bs-trigger="hover focus" data-bs-toggle="popover"
+                                                            data-bs-placement="top" data-bs-html="true"
+                                                            data-bs-content='<div class="avatar-lg bg-light m-n2 bg-pattern-3"></div>'>
+                                                            <span
+                                                                class="avatar-title rounded-circle theme-btn bgimg-radio3"
+                                                                style="background-image: url('assets/images/bg-pattern/pattern-03.png')"></span>
+                                                        </label>
+
+                                                    </div>
+                                                    <div class="form-check">
+                                                        <input class="form-check-input theme-img" type="radio"
+                                                            name="bgimg-radio" id="bgimg-radio4" value="bgimg-radio4">
+
+                                                        <label class="form-check-label avatar-xs" for="bgimg-radio4"
+                                                            data-bs-trigger="hover focus" data-bs-toggle="popover"
+                                                            data-bs-placement="top" data-bs-html="true"
+                                                            data-bs-content='<div class="avatar-lg bg-light m-n2 bg-pattern-4"></div>'>
+                                                            <span
+                                                                class="avatar-title rounded-circle theme-btn bgimg-radio4"
+                                                                style="background-image: url('assets/images/bg-pattern/pattern-04.png')"></span>
+                                                        </label>
+
+                                                    </div>
+                                                    <div class="form-check">
+                                                        <input class="form-check-input theme-img" type="radio"
+                                                            name="bgimg-radio" id="bgimg-radio5" value="bgimg-radio5">
+                                                        <label class="form-check-label avatar-xs" for="bgimg-radio5"
+                                                            data-bs-trigger="hover focus" data-bs-toggle="popover"
+                                                            data-bs-placement="top" data-bs-html="true"
+                                                            data-bs-content='<div class="avatar-lg bg-light m-n2 bg-pattern-5"></div>'>
+                                                            <span
+                                                                class="avatar-title rounded-circle theme-btn bgimg-radio5"
+                                                                style="background-image: url('assets/images/bg-pattern/pattern-05.png')"></span>
+                                                        </label>
+                                                    </div>
+                                                    <div class="form-check">
+                                                        <input class="form-check-input theme-img" type="radio"
+                                                            name="bgimg-radio" id="bgimg-radio6" value="bgimg-radio6">
+                                                        <label class="form-check-label avatar-xs" for="bgimg-radio6"
+                                                            data-bs-trigger="hover focus" data-bs-toggle="popover"
+                                                            data-bs-placement="top" data-bs-html="true"
+                                                            data-bs-content='<div class="avatar-lg bg-light m-n2 bg-pattern-6"></div>'>
+                                                            <span
+                                                                class="avatar-title rounded-circle theme-btn bgimg-radio6"
+                                                                style="background-image: url('assets/images/bg-pattern/pattern-06.png')"></span>
+                                                        </label>
+                                                    </div>
+
+                                                    <div class="form-check">
+                                                        <input class="form-check-input theme-img" type="radio"
+                                                            name="bgimg-radio" id="bgimg-radio7" value="bgimg-radio7">
+                                                        <label class="form-check-label avatar-xs" for="bgimg-radio7"
+                                                            data-bs-trigger="hover focus" data-bs-toggle="popover"
+                                                            data-bs-placement="top" data-bs-html="true"
+                                                            data-bs-content='<div class="avatar-lg bg-light m-n2 bg-pattern-7"></div>'>
+                                                            <span
+                                                                class="avatar-title rounded-circle theme-btn bgimg-radio7"
+                                                                style="background-image: url('assets/images/bg-pattern/pattern-07.png')"></span>
+                                                        </label>
+                                                    </div>
+                                                    <div class="form-check">
+                                                        <input class="form-check-input theme-img" type="radio"
+                                                            name="bgimg-radio" id="bgimg-radio8" value="bgimg-radio8">
+                                                        <label class="form-check-label avatar-xs" for="bgimg-radio8"
+                                                            data-bs-trigger="hover focus" data-bs-toggle="popover"
+                                                            data-bs-placement="top" data-bs-html="true"
+                                                            data-bs-content='<div class="avatar-lg bg-light m-n2 bg-pattern-8"></div>'>
+                                                            <span
+                                                                class="avatar-title rounded-circle theme-btn bgimg-radio8"
+                                                                style="background-image: url('assets/images/bg-pattern/pattern-08.png')"></span>
+                                                        </label>
+
+                                                    </div>
+                                                    <div class="form-check">
+                                                        <input class="form-check-input theme-img" type="radio"
+                                                            name="bgimg-radio" id="bgimg-radio9" value="bgimg-radio9">
+                                                        <label class="form-check-label avatar-xs" for="bgimg-radio9"
+                                                            data-bs-trigger="hover focus" data-bs-toggle="popover"
+                                                            data-bs-placement="top" data-bs-html="true"
+                                                            data-bs-content='<div class="avatar-lg bg-light m-n2 bg-pattern-9"></div>'>
+                                                            <span
+                                                                class="avatar-title rounded-circle theme-btn bgimg-radio9"
+                                                                style="background-image: url('assets/images/bg-pattern/pattern-09.png')"></span>
+                                                        </label>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                
+                                    
+                                    
+                                <!-- end privacy card -->
+
+                                
+                                <!-- end security card -->
+
+                                <div class="accordion-item">
+                                    <div class="accordion-header" id="headerhelp">
+                                        <button class="accordion-button font-size-14 fw-medium collapsed" type="button"
+                                            data-bs-toggle="collapse" data-bs-target="#collapsehelp"
+                                            aria-expanded="false" aria-controls="collapsehelp">
+                                            <i class="bx bxs-help-circle text-muted me-3"></i> Yardım
+                                        </button>
+                                    </div>
+                                    <div id="collapsehelp" class="accordion-collapse collapse"
+                                        aria-labelledby="headerhelp" data-bs-parent="#settingprofile">
+                                        <div class="accordion-body">
+                                            <ul class="list-group list-group-flush">
+                                                <li class="list-group-item py-3 px-0 pt-0">
+                                                    <h5 class="font-size-13 mb-0"><a href="#"
+                                                            class="text-body d-block">FAQs</a></h5>
+                                                </li>
+                                                <li class="list-group-item py-3 px-0">
+                                                    <h5 class="font-size-13 mb-0"><a href="#"
+                                                            class="text-body d-block">Əlaqə</a></h5>
+                                                </li>
+                                                <li class="list-group-item py-3 px-0 pb-0">
+                                                    <h5 class="font-size-13 mb-0"><a href="#"
+                                                            class="text-body d-block">Şərtlər və Məxfilik siyasəti</a></h5>
+                                                </li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- end profile-setting-accordion -->
+                        </div>
+                        <!-- End User profile description -->
+                    </div>
+                    <!-- Start Settings content -->
+                </div>
+                <!-- End settings tab-pane -->
+            </div>
+            <!-- end tab content -->
+        </div>
+        <!-- end chat-leftsidebar -->
+
+        <!-- Start User chat -->
+
+        <div class="user-chat w-100 overflow-hidden">
+            
+            <div class="container-fluid loader_bg">
+                <div class="text-center">
+                    <div class="loader">
+                        <span></span>
+                        <span></span>
+                    </div>
+                </div>
+            </div>
+            <div class="chat-welcome-section chat-section" id="chatSectionWelcome" style="display: flex;">
+                <div class="row w-100 justify-content-center" id="Welcome">
+                    <div class="col-xxl-5 col-md-7">
+                        <div class="p-4 text-center">
+                            <div class="avatar-xl mx-auto mb-4">
+                                <div class="avatar-title bg-soft-primary rounded-circle">
+                                    <i class="bx bxs-message-alt-detail display-4 text-primary m-0"></i>
+                                </div>
+                            </div>
+                            <h4>PlantOrg dəstək xidmətinə xoş gəlmisiniz</h4>
+                            <p class="text-muted mb-4">Siz buradan yeni müraciət yaradıb bütün suallarınızı bizə yönləndirə bilərsiniz. Ən qısa zamanda uyğun operatorlar sizə cavab verəcəkdir. Diqqətiniz üçün təşəkkürlər</p>
+                        </div>
+                    </div>
+                </div>
+                <!-- <input type="file" id="fileInput" accept="image/*" hidden/>
+                <button id="sendImageButton" hidden>Send Photo</button>
+                
+                <input type="file" id="fileInputVideo" accept="video/*" hidden/>
+                <button id="sendVideoButton" hidden>Send Video</button>
+
+                <button id="startRecording" hidden>Start Recording</button>
+                <button id="stopRecording" hidden disabled>Stop Recording</button>
+                <audio id="audioPlayer" hidden controls></audio>
+                <button id="sendAudioButton" hidden>Send Voice</button> -->
+                <div id="listOfOldMessages"></div>
+            </div>
+            <!-- end chat-welcome-section -->
+
+            <div class="chat-content d-lg-flex">
+                <!-- start chat conversation section -->
+                
+
+                    <!-- conversation group -->
+                    
+                        <!-- end chat user head -->
+
+                        <!-- start chat conversation -->
+
+                        
+                        <!-- end chat conversation end -->
+                    
+
+                    <!-- start chat input section -->
+                    
+                    <!-- end chat input section -->
+                    <!-- Block Contact -->
+                    
+                <!-- end chat conversation section -->
+
+                <!-- start User profile detail sidebar -->
+                <div class="user-profile-sidebar">
+
+                    <div class="p-3 border-bottom">
+                        <div class="user-profile-img receiver-bg-img">
+                            <img src="assets/images/users/avatar-2.jpg" class="profile-img rounded" alt="">
+                            <div class="overlay-content rounded">
+                                <div class="user-chat-nav p-2">
+                                    <div class="d-flex w-100">
+                                        <div class="flex-grow-1">
+                                            <button type="button"
+                                                class="btn nav-btn text-white user-profile-show d-none d-lg-block">
+                                                <i class="bx bx-x"></i>
+                                            </button>
+                                            <button type="button"
+                                                class="btn nav-btn text-white user-profile-show d-block d-lg-none">
+                                                <i class="bx bx-left-arrow-alt"></i>
+                                            </button>
+                                        </div>
+                                        <div class="flex-shrink-0 receiver_dropdown">
+                                            <div class="dropdown">
+                                                <button class="btn nav-btn text-white dropdown-toggle" type="button"
+                                                    data-bs-toggle="dropdown" aria-haspopup="true"
+                                                    aria-expanded="false">
+                                                    <i class='bx bx-dots-vertical-rounded'></i>
+                                                </button>
+                                                <div class="dropdown-menu dropdown-menu-end">
+                                                    <a href="javascript:void(0);"
+                                                        class="dropdown-item d-flex justify-content-between align-items-center">
+                                                        <input id="group-profile-edit" type="file"
+                                                            class="profile-img-file-input group-img-file-input d-none">
+                                                        <label for="group-profile-edit"
+                                                            class="group-profile-edit fw-normal"
+                                                            style="cursor: pointer;">
+                                                            Profile
+                                                        </label>
+                                                        <i class="bx bx-user text-muted"></i>
+                                                    </a>
+                                                    <a class="dropdown-item d-flex justify-content-between align-items-center"
+                                                        data-bs-toggle="modal" href="#groupImgModal">Background <i
+                                                            class="bx bx-image text-muted"></i></a>
+                                                    <a class="dropdown-item d-flex justify-content-between align-items-center"
+                                                        href="javascript:void(0);">Mute <i
+                                                            class="bx bx-microphone-off text-muted"></i></a>
+                                                    <a class="dropdown-item d-flex justify-content-between align-items-center"
+                                                        href="javascript:void(0);">Call <i
+                                                            class="bx bx-phone-call text-muted"></i></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="mt-auto p-3">
+                                    <h5 class="user-name mb-1 text-truncate receiver_name">Bella Cote</h5>
+                                    <p class="font-size-14 text-truncate mb-0 contact_status"></p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- End profile user -->
+
+                    <!-- Start user-profile-desc -->
+                    <div class="p-4 user-profile-desc" data-simplebar>
+
+                        <div class="text-center border-bottom receiver-info">
+                            <div class="row">
+                                <div class="col-sm col-4 contact_addbtn">
+                                    <div class="mb-4">
+                                        <button type="button" class="btn avatar-sm p-0" data-bs-toggle="modal"
+                                            data-bs-target="#addContact-exampleModal">
+                                            <span class="avatar-title rounded bg-light text-body">
+                                                <i class='bx bx-user-plus'></i>
+                                            </span>
+                                        </button>
+                                        <h5 class="font-size-11 text-uppercase text-muted mt-2">Contact</h5>
+                                    </div>
+                                </div>
+                                <div class="col-sm col-4 fav_btn">
+                                    <div class="mb-4">
+                                        <button type="button" class="btn avatar-sm p-0 favourite-btn">
+                                            <span class="avatar-title rounded bg-light text-body">
+                                                <i class="bx bx-heart"></i>
+                                            </span>
+                                        </button>
+                                        <h5 class="font-size-11 text-uppercase text-muted mt-2">Favourite</h5>
+                                    </div>
+                                </div>
+                                <div class="col-sm col-4 audio-btn">
+                                    <div class="mb-4">
+                                        <button type="button" class="btn avatar-sm p-0" data-bs-toggle="modal"
+                                            data-bs-target=".audiocallModal">
+                                            <span class="avatar-title rounded bg-light text-body">
+                                                <i class="bx bxs-phone-call"></i>
+                                            </span>
+                                        </button>
+                                        <h5 class="font-size-11 text-uppercase text-muted mt-2">Audio</h5>
+                                    </div>
+                                </div>
+                                <div class="col-sm col-4 video-btn">
+                                    <div class="mb-4">
+                                        <button type="button" class="btn avatar-sm p-0" data-bs-toggle="modal"
+                                            data-bs-target=".videocallModal">
+                                            <span class="avatar-title rounded bg-light text-body">
+                                                <i class="bx bx-video"></i>
+                                            </span>
+                                        </button>
+                                        <h5 class="font-size-11 text-uppercase text-muted mt-2">Video</h5>
+                                    </div>
+                                </div>
+                                <div class="col-sm col-4">
+                                    <div class="mb-4">
+                                        <div class="dropdown">
+                                            <button class="btn avatar-sm p-0 dropdown-toggle" type="button"
+                                                data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                                <span class="avatar-title bg-light text-body rounded">
+                                                    <i class='bx bx-dots-horizontal-rounded'></i>
+                                                </span>
+                                            </button>
+
+                                            <div class="dropdown-menu dropdown-menu-end">
+                                                <a class="dropdown-item d-flex justify-content-between align-items-center"
+                                                    href="#">Archive <i class="bx bx-archive text-muted"></i></a>
+                                                <a class="dropdown-item d-flex justify-content-between align-items-center"
+                                                    href="#">Muted <i class="bx bx-microphone-off text-muted"></i></a>
+                                                <a class="dropdown-item d-flex justify-content-between align-items-center"
+                                                    href="#">Delete <i class="bx bx-trash text-muted"></i></a>
+                                            </div>
+                                        </div>
+                                        <h5 class="font-size-11 text-uppercase text-muted mt-2">More</h5>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="text-muted pt-4">
+                            <h5 class="font-size-11 text-uppercase">Status :</h5>
+                            <p class="mb-4 receiver_status"></p>
+                        </div>
+
+                        <div class="">
+                            <h5 class="font-size-11 text-uppercase mb-2">Info :</h5>
+                            <div>
+                                <div class="d-flex align-items-end">
+                                    <div class="flex-grow-1">
+                                        <p class="text-muted font-size-14 mb-1">Name</p>
+                                    </div>
+                                    <div class="flex-shrink-0">
+                                        <button type="button" class="btn btn-sm btn-soft-primary" id="contact_name_edit"
+                                            onclick="edit_contactName(this)">Edit</button>
+                                    </div>
+                                </div>
+                                <h5 class="font-size-14 text-truncate receiver_name" id="contact_name">Bella Cote</h5>
+                                <div id="edit-contact-name" class="visually-hidden d-flex justify-content-between">
+                                    <input type="text" name="name" id="contactname" value=""
+                                        class="form-control bg-soft-light border-light" maxlength="20" />
+                                    <div class="float-right">
+                                        <button type="submit" id="receiverSave" onclick="contactNameChange(this)"
+                                            class="btn btn-primary btn-block waves-effect waves-light"
+                                            style="display: block;">
+                                            Save</button>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="receiverInfo">
+                                <div class="mt-4">
+                                    <p class="text-muted font-size-14 mb-1">Email</p>
+                                    <h5 class="font-size-14 receiver_email">adc@123.com</h5>
+                                </div>
+
+                                <div class="mt-4">
+                                    <p class="text-muted font-size-14 mb-1">Location</p>
+                                    <h5 class="font-size-14 mb-0 receiver_location">California, USA</h5>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="exit_group"></div>
+
+                        <div class="group_member_sec">
+                            <hr class="my-4">
+                            <div>
+                                <div class="d-flex">
+                                    <div class="flex-grow-1">
+                                        <h5 class="font-size-11 text-muted text-uppercase">Group Member List</h5>
+                                    </div>
+                                </div>
+
+                                <ul class="list-unstyled chat-list mx-n4 member_add">
+                                    <li>
+                                        <a href="javascript: void(0);" class="add_contact" id="" data-bs-toggle="modal"
+                                            data-bs-target="#addgroupMember-exampleModal">
+                                            <div class="d-flex align-items-center">
+                                                <div class="flex-shrink-0 avatar-xs me-2">
+                                                    <span class="avatar-title rounded-circle bg-soft-light text-dark">
+                                                        +
+                                                    </span>
+                                                </div>
+                                                <div class="flex-grow-1 overflow-hidden">
+                                                    <p class="text-truncate mb-0">Add New Member</p>
+                                                </div>
+                                            </div>
+                                        </a>
+                                    </li>
+                                </ul>
+                                <ul class="list-unstyled group_member_list chat-list mx-n4"></ul>
+                            </div>
+                        </div>
+
+                        <div class="common_group_sec">
+                            <hr class="my-4">
+                            <div>
+                                <div class="d-flex">
+                                    <div class="flex-grow-1">
+                                        <h5 class="font-size-11 text-muted text-uppercase">Group in common</h5>
+                                    </div>
+                                </div>
+
+                                <ul class="list-unstyled chat-list mx-n4 common_groups"></ul>
+                            </div>
+                        </div>
+
+                        <div class="receiver_mediaFile">
+                            <hr class="my-4">
+                            <div class="d-flex">
+                                <div class="flex-grow-1">
+                                    <h5 class="font-size-11 text-muted text-uppercase">Media</h5>
+                                </div>
+                            </div>
+                            <div class="conversation-list">
+                                <div class="profile-media-img">
+                                    <div class="row g-2 media_list w-100"></div>
+                                </div>
+                            </div>
+                        </div>
+
+
+                        <div class="receiver_attachedFile">
+                            <hr class="my-4">
+                            <div>
+                                <h5 class="font-size-11 text-muted text-uppercase mb-3">Attached Files</h5>
+                            </div>
+
+                            <div class="attachedFileList"></div>
+                        </div>
+                    </div>
+                    <!-- end user-profile-desc -->
+                </div>
+                <!-- end User profile detail sidebar -->
+            </div>
+            <!-- end user chat content -->
+        </div>
+        <!-- End User chat -->
+
+        <!-- Start Add contact Modal -->
+        
+        <!-- End Add contact Modal -->
+
+        <!-- audiocall Modal -->
+        
+        <!-- audiocall Modal -->
+
+        <!-- incomingcall Modal -->
+        
+        <!-- end incomingcall Modal -->
+        
+        <!-- Full screen modal -->
+        
+        <!-- end full Model -->
+
+        <!-- videocall Modal -->
+        
+        <!-- end modal -->
+
+        <!-- Start Add pinned tab Modal -->
+        
+        <!-- End Add pinned tab Modal -->
+
+        <!-- forward Modal -->
+        
+        <!-- forward Modal -->
+
+        <!-- contactModal -->
+        
+
+
+        <!-- contactModal -->
+    </div>
+    <!-- end  layout wrapper -->
+
+    <!-- Profile Modal -->
+    <div class="modal fade" id="profileModal" tabindex="-1" aria-labelledby="cameraModalLabel" aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h1 class="modal-title fs-5" id="cameraModalLabel">Profile</h1>
+                </div>
+                <div class="modal-body profile-camera"></div>
+                <div class="modal-footer justify-content-center">
+                    <button type="button" class="btn btn-secondary" data-bs-dismiss="modal" id="close_media"
+                        onclick="closeModal()">Cancel</button>
+                    <button type="button" class="btn btn-primary" id="profileSave" data-bs-dismiss="modal"
+                        aria-label="Close" onclick="saveProfileModal()">Save</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Modal -->
+    <div class="modal fade" id="groupImgModal" tabindex="-1" aria-labelledby="groupImgModalLabel" aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered">
+            <div class="modal-content">
+                <div class="modal-body">
+                    <div class="theme-btn-list theme-btn-list-img">
+                        <div class="row g-3">
+                            <div class="col-lg-3">
+                                <div class="form-check" data-bs-dismiss="modal">
+                                    <input class="form-check-input themebg-img" type="radio" name="img-radio"
+                                        id="img-radio1" value="1.html">
+                                    <label class="form-check-label avatar-lg w-100" for="img-radio1"><span
+                                            class="theme-btn w-100 h-100 d-block"
+                                            style="background-image: url('assets/images/small/1.png')"></span>
+                                    </label>
+                                </div>
+                            </div>
+
+                            <!--Credentials-->
+                            <div>
+                                <div>
+                                    <label id="connectionType">FindOperator</label>
+                                </div>
+                                <div>
+                                    <label id="connectedOperatorId" >
+                                        
+                                    </label>
+                                    <label id="connectedOperatorProfile" >
+                                        
+                                    </label>
+                                    <label id="connectedOperatorName" >
+                    
+                                    </label>
+                                    <label id="connectedOperatorDbId">
+                            
+                                    </label>
+                                </div>
+                            </div>
+
+                            <div class="col-lg-3">
+                                <div class="form-check" data-bs-dismiss="modal">
+                                    <input class="form-check-input themebg-img" type="radio" name="img-radio"
+                                        id="img-radio2" value="2.html">
+                                    <label class="form-check-label avatar-lg w-100" for="img-radio2"><span
+                                            class="theme-btn w-100 h-100 d-block"
+                                            style="background-image: url('assets/images/small/2.png')"></span>
+                                    </label>
+                                </div>
+                            </div>
+
+                            <div class="col-lg-3">
+                                <div class="form-check" data-bs-dismiss="modal">
+                                    <input class="form-check-input themebg-img" type="radio" name="img-radio"
+                                        id="img-radio3" value="3.html">
+                                    <label class="form-check-label avatar-lg w-100" for="img-radio3"><span
+                                            class="theme-btn w-100 h-100 d-block"
+                                            style="background-image: url('assets/images/small/3.png')"></span>
+                                    </label>
+                                </div>
+                            </div>
+
+                            <div class="col-lg-3">
+                                <div class="form-check" data-bs-dismiss="modal">
+                                    <input class="form-check-input themebg-img" type="radio" name="img-radio"
+                                        id="img-radio4" value="4.html">
+                                    <label class="form-check-label avatar-lg w-100" for="img-radio4"><span
+                                            class="theme-btn w-100 h-100 d-block"
+                                            style="background-image: url('assets/images/small/4.png')"></span>
+                                    </label>
+                                </div>
+                            </div>
+
+                            <div class="col-lg-3">
+                                <div class="form-check" data-bs-dismiss="modal">
+                                    <input class="form-check-input themebg-img" type="radio" name="img-radio"
+                                        id="img-radio5" value="5.html">
+                                    <label class="form-check-label avatar-lg w-100" for="img-radio5"><span
+                                            class="theme-btn w-100 h-100 d-block"
+                                            style="background-image: url('assets/images/small/5.png')"></span>
+                                    </label>
+                                </div>
+                            </div>
+
+
+                            <div class="col-lg-3">
+                                <div class="form-check" data-bs-dismiss="modal">
+                                    <input class="form-check-input themebg-img" type="radio" name="img-radio"
+                                        id="img-radio6" value="6.html">
+                                    <label class="form-check-label avatar-lg w-100" for="img-radio6"><span
+                                            class="theme-btn w-100 h-100 d-block"
+                                            style="background-image: url('assets/images/small/6.png')"></span>
+                                    </label>
+                                </div>
+                            </div>
+
+                            <div class="col-lg-3">
+                                <div class="form-check" data-bs-dismiss="modal">
+                                    <input class="form-check-input themebg-img" type="radio" name="img-radio"
+                                        id="img-radio7" value="7.html">
+                                    <label class="form-check-label avatar-lg w-100" for="img-radio7"><span
+                                            class="theme-btn w-100 h-100 d-block"
+                                            style="background-image: url('assets/images/small/7.png')"></span>
+                                    </label>
+                                </div>
+                            </div>
+
+                            <div class="col-lg-3">
+                                <div class="form-check" data-bs-dismiss="modal">
+                                    <input class="form-check-input themebg-img" type="radio" name="img-radio"
+                                        id="img-radio8" value="8.html">
+                                    <label class="form-check-label avatar-lg w-100" for="img-radio8"><span
+                                            class="theme-btn w-100 h-100 d-block"
+                                            style="background-image: url('assets/images/small/8.png')"></span>
+                                    </label>
+                                </div>
+                            </div>
+
+                            <div class="col-lg-3">
+                                <div class="form-check" data-bs-dismiss="modal">
+                                    <input class="form-check-input themebg-img" type="radio" name="img-radio"
+                                        id="img-radio9" value="9.html">
+                                    <label class="form-check-label avatar-lg w-100" for="img-radio9"><span
+                                            class="theme-btn w-100 h-100 d-block"
+                                            style="background-image: url('assets/images/small/9.png')"></span>
+                                    </label>
+                                </div>
+                            </div>
+
+                            <div class="col-lg-3">
+                                <div class="form-check" data-bs-dismiss="modal">
+                                    <input class="form-check-input themebg-img" type="radio" name="img-radio"
+                                        id="img-radio10" value="10.html">
+                                    <label class="form-check-label avatar-lg w-100" for="img-radio10"><span
+                                            class="theme-btn w-100 h-100 d-block"
+                                            style="background-image: url('assets/images/small/10.png')"></span>
+                                    </label>
+                                </div>
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="modal-backdrop fade show" id="backdrop" style="display: none;"></div>
+
+    <!-- JAVASCRIPT -->
+    <script src="assets/libs/bootstrap/js/bootstrap.bundle.min.js"></script>
+    <script src="assets/libs/simplebar/simplebar.min.js"></script>
+    <script src="assets/libs/node-waves/waves.min.js"></script>
+
+    <!-- glightbox js --> 
+    <script src="assets/libs/glightbox/js/glightbox.min.js"></script>
+
+    <!-- Swiper JS -->
+    <script src="assets/libs/swiper/swiper-bundle.min.js"></script>
+
+    <!-- Sweet Alerts js -->
+    <script src="assets/libs/sweetalert2/sweetalert2.min.js"></script>
+
+    <!-- fg-emoji-picker JS -->
+    <script src="assets/libs/fg-emoji-picker/fgEmojiPicker.js"></script>
+
+    <!-- page init -->
+    <script src="assets/js/pages/index.init.js"></script>
+
+    <script src="assets/js/app.js"></script>
+    <!-- <script src="assets/js/pages/jquery.min.js"></script> -->
+    <!-- <script src="socket.io/socket.io.js"></script> -->
+    <script src="assets/js/pages/toastr.min.js"></script> 
+
+    <!-- <script src="assets/js/auth.js"></script> -->
+
+    <!-- google maps api -->
+    <script src="https://maps.google.com/maps/api/js?key=AIzaSyCtSAR45TFgZjOs4nBFFZnII-6mMHLfSYI"></script>
+
+    <!-- Gmaps file -->
+    <script src="assets/libs/gmaps/gmaps.min.js"></script>
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+    <script src="/UserChat.js"></script>
+    
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/microsoft-signalr/6.0.1/signalr.js"></script>
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+    <script src="/chat.js"></script>
+    <script src="/ChatPhoto.js"></script>
+    <script src="/language.js"></script>
+</body>
+
+
+<!-- Mirrored from dootnode.themesbrand.website/ by HTTrack Website Copier/3.x [XR&CO'2014], Sun, 29 Oct 2023 21:49:12 GMT -->
+</html>

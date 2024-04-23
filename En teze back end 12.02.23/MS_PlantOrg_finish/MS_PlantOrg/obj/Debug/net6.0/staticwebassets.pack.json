@@ -1,0 +1,61 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\PlantLayihe\\En teze back end 12.02.23\\MS_PlantOrg_finish\\MS_PlantOrg\\wwwroot\\audios\\2-1\\Operator_20240309170949_.mp3",
+      "PackagePath": "staticwebassets\\audios\\2-1\\Operator_20240309170949_.mp3"
+    },
+    {
+      "Id": "D:\\PlantLayihe\\En teze back end 12.02.23\\MS_PlantOrg_finish\\MS_PlantOrg\\wwwroot\\audios\\2-1\\User_20240309170945_.mp3",
+      "PackagePath": "staticwebassets\\audios\\2-1\\User_20240309170945_.mp3"
+    },
+    {
+      "Id": "D:\\PlantLayihe\\En teze back end 12.02.23\\MS_PlantOrg_finish\\MS_PlantOrg\\wwwroot\\images\\photos\\2-1\\Operator_20240309170930_.png",
+      "PackagePath": "staticwebassets\\images\\photos\\2-1\\Operator_20240309170930_.png"
+    },
+    {
+      "Id": "D:\\PlantLayihe\\En teze back end 12.02.23\\MS_PlantOrg_finish\\MS_PlantOrg\\wwwroot\\images\\photos\\2-1\\Operator_20240326091612_.png",
+      "PackagePath": "staticwebassets\\images\\photos\\2-1\\Operator_20240326091612_.png"
+    },
+    {
+      "Id": "D:\\PlantLayihe\\En teze back end 12.02.23\\MS_PlantOrg_finish\\MS_PlantOrg\\wwwroot\\images\\profiles\\188a3765-6a62-438a-997c-bac87c1da652_nihad.jpeg",
+      "PackagePath": "staticwebassets\\images\\profiles\\188a3765-6a62-438a-997c-bac87c1da652_nihad.jpeg"
+    },
+    {
+      "Id": "D:\\PlantLayihe\\En teze back end 12.02.23\\MS_PlantOrg_finish\\MS_PlantOrg\\wwwroot\\images\\profiles\\2bcbee34-95df-4cee-9264-08e8c0820d5f_eltun_admin.jpg",
+      "PackagePath": "staticwebassets\\images\\profiles\\2bcbee34-95df-4cee-9264-08e8c0820d5f_eltun_admin.jpg"
+    },
+    {
+      "Id": "D:\\PlantLayihe\\En teze back end 12.02.23\\MS_PlantOrg_finish\\MS_PlantOrg\\wwwroot\\images\\profiles\\4aea27f9-5a90-4e7f-8ea9-bed8254c0817_roska.jpg",
+      "PackagePath": "staticwebassets\\images\\profiles\\4aea27f9-5a90-4e7f-8ea9-bed8254c0817_roska.jpg"
+    },
+    {
+      "Id": "D:\\PlantLayihe\\En teze back end 12.02.23\\MS_PlantOrg_finish\\MS_PlantOrg\\wwwroot\\images\\profiles\\847e65f8-2016-417b-bd37-1214875dae53_eltun_admin.jpg",
+      "PackagePath": "staticwebassets\\images\\profiles\\847e65f8-2016-417b-bd37-1214875dae53_eltun_admin.jpg"
+    },
+    {
+      "Id": "D:\\PlantLayihe\\En teze back end 12.02.23\\MS_PlantOrg_finish\\MS_PlantOrg\\wwwroot\\images\\profiles\\hqdefault_live.jpg",
+      "PackagePath": "staticwebassets\\images\\profiles\\hqdefault_live.jpg"
+    },
+    {
+      "Id": "D:\\PlantLayihe\\En teze back end 12.02.23\\MS_PlantOrg_finish\\MS_PlantOrg\\wwwroot\\images\\profiles\\kanan_admin.jpeg",
+      "PackagePath": "staticwebassets\\images\\profiles\\kanan_admin.jpeg"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.MS_PlantOrg.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.MS_PlantOrg.props",
+      "PackagePath": "build\\MS_PlantOrg.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.MS_PlantOrg.props",
+      "PackagePath": "buildMultiTargeting\\MS_PlantOrg.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.MS_PlantOrg.props",
+      "PackagePath": "buildTransitive\\MS_PlantOrg.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

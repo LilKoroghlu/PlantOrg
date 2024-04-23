@@ -1,0 +1,825 @@
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\Təkrar\MS_PlantOrg\MS_PlantOrg\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\Təkrar\MS_PlantOrg\MS_PlantOrg\bin\Debug\net6.0\appsettings.json
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\Təkrar\MS_PlantOrg\MS_PlantOrg\bin\Debug\net6.0\MS_PlantOrg.exe
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\Təkrar\MS_PlantOrg\MS_PlantOrg\bin\Debug\net6.0\MS_PlantOrg.deps.json
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\Təkrar\MS_PlantOrg\MS_PlantOrg\bin\Debug\net6.0\MS_PlantOrg.runtimeconfig.json
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\Təkrar\MS_PlantOrg\MS_PlantOrg\bin\Debug\net6.0\MS_PlantOrg.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\Təkrar\MS_PlantOrg\MS_PlantOrg\bin\Debug\net6.0\MS_PlantOrg.pdb
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\Təkrar\MS_PlantOrg\MS_PlantOrg\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\Təkrar\MS_PlantOrg\MS_PlantOrg\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\Təkrar\MS_PlantOrg\MS_PlantOrg\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\Təkrar\MS_PlantOrg\MS_PlantOrg\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\Təkrar\MS_PlantOrg\MS_PlantOrg\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\Təkrar\MS_PlantOrg\MS_PlantOrg\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\Təkrar\MS_PlantOrg\MS_PlantOrg\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\Təkrar\MS_PlantOrg\MS_PlantOrg\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\Təkrar\MS_PlantOrg\MS_PlantOrg\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\Təkrar\MS_PlantOrg\MS_PlantOrg\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\Təkrar\MS_PlantOrg\MS_PlantOrg\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\Təkrar\MS_PlantOrg\MS_PlantOrg\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\Təkrar\MS_PlantOrg\MS_PlantOrg\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\Təkrar\MS_PlantOrg\MS_PlantOrg\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\Təkrar\MS_PlantOrg\MS_PlantOrg\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\Təkrar\MS_PlantOrg\MS_PlantOrg\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\Təkrar\MS_PlantOrg\MS_PlantOrg\bin\Debug\net6.0\Namotion.Reflection.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\Təkrar\MS_PlantOrg\MS_PlantOrg\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\Təkrar\MS_PlantOrg\MS_PlantOrg\bin\Debug\net6.0\NJsonSchema.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\Təkrar\MS_PlantOrg\MS_PlantOrg\bin\Debug\net6.0\NJsonSchema.Yaml.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\Təkrar\MS_PlantOrg\MS_PlantOrg\bin\Debug\net6.0\NSwag.Annotations.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\Təkrar\MS_PlantOrg\MS_PlantOrg\bin\Debug\net6.0\NSwag.AspNetCore.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\Təkrar\MS_PlantOrg\MS_PlantOrg\bin\Debug\net6.0\NSwag.Core.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\Təkrar\MS_PlantOrg\MS_PlantOrg\bin\Debug\net6.0\NSwag.Core.Yaml.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\Təkrar\MS_PlantOrg\MS_PlantOrg\bin\Debug\net6.0\NSwag.Generation.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\Təkrar\MS_PlantOrg\MS_PlantOrg\bin\Debug\net6.0\NSwag.Generation.AspNetCore.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\Təkrar\MS_PlantOrg\MS_PlantOrg\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\Təkrar\MS_PlantOrg\MS_PlantOrg\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\Təkrar\MS_PlantOrg\MS_PlantOrg\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\Təkrar\MS_PlantOrg\MS_PlantOrg\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\Təkrar\MS_PlantOrg\MS_PlantOrg\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\Təkrar\MS_PlantOrg\MS_PlantOrg\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\Təkrar\MS_PlantOrg\MS_PlantOrg\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\Təkrar\MS_PlantOrg\MS_PlantOrg\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\Təkrar\MS_PlantOrg\MS_PlantOrg\bin\Debug\net6.0\YamlDotNet.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\Təkrar\MS_PlantOrg\MS_PlantOrg\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\Təkrar\MS_PlantOrg\MS_PlantOrg\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\Təkrar\MS_PlantOrg\MS_PlantOrg\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\Təkrar\MS_PlantOrg\MS_PlantOrg\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\Təkrar\MS_PlantOrg\MS_PlantOrg\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\Təkrar\MS_PlantOrg\MS_PlantOrg\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\Təkrar\MS_PlantOrg\MS_PlantOrg\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\Təkrar\MS_PlantOrg\MS_PlantOrg\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\Təkrar\MS_PlantOrg\MS_PlantOrg\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\Təkrar\MS_PlantOrg\MS_PlantOrg\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\Təkrar\MS_PlantOrg\MS_PlantOrg\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\Təkrar\MS_PlantOrg\MS_PlantOrg\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\Təkrar\MS_PlantOrg\MS_PlantOrg\obj\Debug\net6.0\MS_PlantOrg.csproj.AssemblyReference.cache
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\Təkrar\MS_PlantOrg\MS_PlantOrg\obj\Debug\net6.0\MS_PlantOrg.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\Təkrar\MS_PlantOrg\MS_PlantOrg\obj\Debug\net6.0\MS_PlantOrg.AssemblyInfoInputs.cache
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\Təkrar\MS_PlantOrg\MS_PlantOrg\obj\Debug\net6.0\MS_PlantOrg.AssemblyInfo.cs
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\Təkrar\MS_PlantOrg\MS_PlantOrg\obj\Debug\net6.0\MS_PlantOrg.csproj.CoreCompileInputs.cache
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\Təkrar\MS_PlantOrg\MS_PlantOrg\obj\Debug\net6.0\MS_PlantOrg.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\Təkrar\MS_PlantOrg\MS_PlantOrg\obj\Debug\net6.0\MS_PlantOrg.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\Təkrar\MS_PlantOrg\MS_PlantOrg\obj\Debug\net6.0\staticwebassets\msbuild.MS_PlantOrg.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\Təkrar\MS_PlantOrg\MS_PlantOrg\obj\Debug\net6.0\staticwebassets\msbuild.build.MS_PlantOrg.props
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\Təkrar\MS_PlantOrg\MS_PlantOrg\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.MS_PlantOrg.props
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\Təkrar\MS_PlantOrg\MS_PlantOrg\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.MS_PlantOrg.props
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\Təkrar\MS_PlantOrg\MS_PlantOrg\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\Təkrar\MS_PlantOrg\MS_PlantOrg\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\Təkrar\MS_PlantOrg\MS_PlantOrg\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\Təkrar\MS_PlantOrg\MS_PlantOrg\obj\Debug\net6.0\scopedcss\bundle\MS_PlantOrg.styles.css
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\Təkrar\MS_PlantOrg\MS_PlantOrg\obj\Debug\net6.0\MS_PlantOrg.csproj.CopyComplete
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\Təkrar\MS_PlantOrg\MS_PlantOrg\obj\Debug\net6.0\MS_PlantOrg.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\Təkrar\MS_PlantOrg\MS_PlantOrg\obj\Debug\net6.0\refint\MS_PlantOrg.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\Təkrar\MS_PlantOrg\MS_PlantOrg\obj\Debug\net6.0\MS_PlantOrg.pdb
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\Təkrar\MS_PlantOrg\MS_PlantOrg\obj\Debug\net6.0\MS_PlantOrg.genruntimeconfig.cache
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\Təkrar\MS_PlantOrg\MS_PlantOrg\obj\Debug\net6.0\ref\MS_PlantOrg.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\Təkrar\MS_PlantOrg\MS_PlantOrg\bin\Debug\net6.0\MS_PlantOrg.staticwebassets.runtime.json
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\Təkrar\MS_PlantOrg\MS_PlantOrg\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\Təkrar\MS_PlantOrg\MS_PlantOrg\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\Təkrar\MS_PlantOrg\MS_PlantOrg\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\Təkrar\MS_PlantOrg\MS_PlantOrg\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\Təkrar\MS_PlantOrg\MS_PlantOrg\bin\Debug\net6.0\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\Təkrar\MS_PlantOrg\MS_PlantOrg\bin\Debug\net6.0\Microsoft.AspNetCore.Http.Connections.Client.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\Təkrar\MS_PlantOrg\MS_PlantOrg\bin\Debug\net6.0\Microsoft.AspNetCore.Http.Connections.Common.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\Təkrar\MS_PlantOrg\MS_PlantOrg\bin\Debug\net6.0\Microsoft.AspNetCore.SignalR.Client.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\Təkrar\MS_PlantOrg\MS_PlantOrg\bin\Debug\net6.0\Microsoft.AspNetCore.SignalR.Client.Core.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\Təkrar\MS_PlantOrg\MS_PlantOrg\bin\Debug\net6.0\Microsoft.AspNetCore.SignalR.Common.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\Təkrar\MS_PlantOrg\MS_PlantOrg\bin\Debug\net6.0\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\Təkrar\MS_PlantOrg\MS_PlantOrg\bin\Debug\net6.0\Microsoft.Extensions.Features.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\Təkrar\MS_PlantOrg\MS_PlantOrg\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\Təkrar\MS_PlantOrg\MS_PlantOrg\bin\Debug\net6.0\System.IO.Pipelines.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\Təkrar\MS_PlantOrg\MS_PlantOrg\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\C# Projects\MS_PlantOrg\MS_PlantOrg\obj\Debug\net6.0\MS_PlantOrg.csproj.AssemblyReference.cache
+D:\C# Projects\MS_PlantOrg\MS_PlantOrg\obj\Debug\net6.0\MS_PlantOrg.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Projects\MS_PlantOrg\MS_PlantOrg\obj\Debug\net6.0\MS_PlantOrg.AssemblyInfoInputs.cache
+D:\C# Projects\MS_PlantOrg\MS_PlantOrg\obj\Debug\net6.0\MS_PlantOrg.AssemblyInfo.cs
+D:\C# Projects\MS_PlantOrg\MS_PlantOrg\obj\Debug\net6.0\MS_PlantOrg.csproj.CoreCompileInputs.cache
+D:\C# Projects\MS_PlantOrg\MS_PlantOrg\obj\Debug\net6.0\MS_PlantOrg.MvcApplicationPartsAssemblyInfo.cs
+D:\C# Projects\MS_PlantOrg\MS_PlantOrg\obj\Debug\net6.0\MS_PlantOrg.MvcApplicationPartsAssemblyInfo.cache
+D:\C# Projects\MS_PlantOrg\MS_PlantOrg\obj\Debug\net6.0\MS_PlantOrg.dll
+D:\C# Projects\MS_PlantOrg\MS_PlantOrg\obj\Debug\net6.0\refint\MS_PlantOrg.dll
+D:\C# Projects\MS_PlantOrg\MS_PlantOrg\obj\Debug\net6.0\MS_PlantOrg.pdb
+D:\C# Projects\MS_PlantOrg\MS_PlantOrg\bin\Debug\net6.0\appsettings.Development.json
+D:\C# Projects\MS_PlantOrg\MS_PlantOrg\bin\Debug\net6.0\appsettings.json
+D:\C# Projects\MS_PlantOrg\MS_PlantOrg\bin\Debug\net6.0\MS_PlantOrg.staticwebassets.runtime.json
+D:\C# Projects\MS_PlantOrg\MS_PlantOrg\bin\Debug\net6.0\MS_PlantOrg.exe
+D:\C# Projects\MS_PlantOrg\MS_PlantOrg\bin\Debug\net6.0\MS_PlantOrg.deps.json
+D:\C# Projects\MS_PlantOrg\MS_PlantOrg\bin\Debug\net6.0\MS_PlantOrg.runtimeconfig.json
+D:\C# Projects\MS_PlantOrg\MS_PlantOrg\bin\Debug\net6.0\MS_PlantOrg.dll
+D:\C# Projects\MS_PlantOrg\MS_PlantOrg\bin\Debug\net6.0\MS_PlantOrg.pdb
+D:\C# Projects\MS_PlantOrg\MS_PlantOrg\bin\Debug\net6.0\Humanizer.dll
+D:\C# Projects\MS_PlantOrg\MS_PlantOrg\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\C# Projects\MS_PlantOrg\MS_PlantOrg\bin\Debug\net6.0\Microsoft.AspNetCore.Connections.Abstractions.dll
+D:\C# Projects\MS_PlantOrg\MS_PlantOrg\bin\Debug\net6.0\Microsoft.AspNetCore.Http.Connections.Client.dll
+D:\C# Projects\MS_PlantOrg\MS_PlantOrg\bin\Debug\net6.0\Microsoft.AspNetCore.Http.Connections.Common.dll
+D:\C# Projects\MS_PlantOrg\MS_PlantOrg\bin\Debug\net6.0\Microsoft.AspNetCore.SignalR.Client.dll
+D:\C# Projects\MS_PlantOrg\MS_PlantOrg\bin\Debug\net6.0\Microsoft.AspNetCore.SignalR.Client.Core.dll
+D:\C# Projects\MS_PlantOrg\MS_PlantOrg\bin\Debug\net6.0\Microsoft.AspNetCore.SignalR.Common.dll
+D:\C# Projects\MS_PlantOrg\MS_PlantOrg\bin\Debug\net6.0\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+D:\C# Projects\MS_PlantOrg\MS_PlantOrg\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\C# Projects\MS_PlantOrg\MS_PlantOrg\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\C# Projects\MS_PlantOrg\MS_PlantOrg\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\C# Projects\MS_PlantOrg\MS_PlantOrg\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\C# Projects\MS_PlantOrg\MS_PlantOrg\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\C# Projects\MS_PlantOrg\MS_PlantOrg\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\C# Projects\MS_PlantOrg\MS_PlantOrg\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\C# Projects\MS_PlantOrg\MS_PlantOrg\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\C# Projects\MS_PlantOrg\MS_PlantOrg\bin\Debug\net6.0\Microsoft.Extensions.Features.dll
+D:\C# Projects\MS_PlantOrg\MS_PlantOrg\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\C# Projects\MS_PlantOrg\MS_PlantOrg\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\C# Projects\MS_PlantOrg\MS_PlantOrg\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\C# Projects\MS_PlantOrg\MS_PlantOrg\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\C# Projects\MS_PlantOrg\MS_PlantOrg\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\C# Projects\MS_PlantOrg\MS_PlantOrg\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\C# Projects\MS_PlantOrg\MS_PlantOrg\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\C# Projects\MS_PlantOrg\MS_PlantOrg\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\C# Projects\MS_PlantOrg\MS_PlantOrg\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\C# Projects\MS_PlantOrg\MS_PlantOrg\bin\Debug\net6.0\Namotion.Reflection.dll
+D:\C# Projects\MS_PlantOrg\MS_PlantOrg\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\C# Projects\MS_PlantOrg\MS_PlantOrg\bin\Debug\net6.0\NJsonSchema.dll
+D:\C# Projects\MS_PlantOrg\MS_PlantOrg\bin\Debug\net6.0\NJsonSchema.Yaml.dll
+D:\C# Projects\MS_PlantOrg\MS_PlantOrg\bin\Debug\net6.0\NSwag.Annotations.dll
+D:\C# Projects\MS_PlantOrg\MS_PlantOrg\bin\Debug\net6.0\NSwag.AspNetCore.dll
+D:\C# Projects\MS_PlantOrg\MS_PlantOrg\bin\Debug\net6.0\NSwag.Core.dll
+D:\C# Projects\MS_PlantOrg\MS_PlantOrg\bin\Debug\net6.0\NSwag.Core.Yaml.dll
+D:\C# Projects\MS_PlantOrg\MS_PlantOrg\bin\Debug\net6.0\NSwag.Generation.dll
+D:\C# Projects\MS_PlantOrg\MS_PlantOrg\bin\Debug\net6.0\NSwag.Generation.AspNetCore.dll
+D:\C# Projects\MS_PlantOrg\MS_PlantOrg\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\C# Projects\MS_PlantOrg\MS_PlantOrg\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\C# Projects\MS_PlantOrg\MS_PlantOrg\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\C# Projects\MS_PlantOrg\MS_PlantOrg\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\C# Projects\MS_PlantOrg\MS_PlantOrg\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\C# Projects\MS_PlantOrg\MS_PlantOrg\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\C# Projects\MS_PlantOrg\MS_PlantOrg\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\C# Projects\MS_PlantOrg\MS_PlantOrg\bin\Debug\net6.0\System.IO.Pipelines.dll
+D:\C# Projects\MS_PlantOrg\MS_PlantOrg\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\C# Projects\MS_PlantOrg\MS_PlantOrg\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\C# Projects\MS_PlantOrg\MS_PlantOrg\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\C# Projects\MS_PlantOrg\MS_PlantOrg\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\C# Projects\MS_PlantOrg\MS_PlantOrg\bin\Debug\net6.0\YamlDotNet.dll
+D:\C# Projects\MS_PlantOrg\MS_PlantOrg\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\C# Projects\MS_PlantOrg\MS_PlantOrg\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\C# Projects\MS_PlantOrg\MS_PlantOrg\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\C# Projects\MS_PlantOrg\MS_PlantOrg\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\C# Projects\MS_PlantOrg\MS_PlantOrg\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\C# Projects\MS_PlantOrg\MS_PlantOrg\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\C# Projects\MS_PlantOrg\MS_PlantOrg\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\C# Projects\MS_PlantOrg\MS_PlantOrg\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\C# Projects\MS_PlantOrg\MS_PlantOrg\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\C# Projects\MS_PlantOrg\MS_PlantOrg\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\C# Projects\MS_PlantOrg\MS_PlantOrg\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\C# Projects\MS_PlantOrg\MS_PlantOrg\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\C# Projects\MS_PlantOrg\MS_PlantOrg\obj\Debug\net6.0\staticwebassets\msbuild.MS_PlantOrg.Microsoft.AspNetCore.StaticWebAssets.props
+D:\C# Projects\MS_PlantOrg\MS_PlantOrg\obj\Debug\net6.0\staticwebassets\msbuild.build.MS_PlantOrg.props
+D:\C# Projects\MS_PlantOrg\MS_PlantOrg\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.MS_PlantOrg.props
+D:\C# Projects\MS_PlantOrg\MS_PlantOrg\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.MS_PlantOrg.props
+D:\C# Projects\MS_PlantOrg\MS_PlantOrg\obj\Debug\net6.0\staticwebassets.pack.json
+D:\C# Projects\MS_PlantOrg\MS_PlantOrg\obj\Debug\net6.0\staticwebassets.build.json
+D:\C# Projects\MS_PlantOrg\MS_PlantOrg\obj\Debug\net6.0\staticwebassets.development.json
+D:\C# Projects\MS_PlantOrg\MS_PlantOrg\obj\Debug\net6.0\scopedcss\bundle\MS_PlantOrg.styles.css
+D:\C# Projects\MS_PlantOrg\MS_PlantOrg\obj\Debug\net6.0\MS_PlantOrg.csproj.CopyComplete
+D:\C# Projects\MS_PlantOrg\MS_PlantOrg\obj\Debug\net6.0\MS_PlantOrg.genruntimeconfig.cache
+D:\C# Projects\MS_PlantOrg\MS_PlantOrg\obj\Debug\net6.0\ref\MS_PlantOrg.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze back end 11.28.23\MS_PlantOrg\MS_PlantOrg\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze back end 11.28.23\MS_PlantOrg\MS_PlantOrg\bin\Debug\net6.0\appsettings.json
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze back end 11.28.23\MS_PlantOrg\MS_PlantOrg\bin\Debug\net6.0\MS_PlantOrg.staticwebassets.runtime.json
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze back end 11.28.23\MS_PlantOrg\MS_PlantOrg\bin\Debug\net6.0\MS_PlantOrg.exe
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze back end 11.28.23\MS_PlantOrg\MS_PlantOrg\bin\Debug\net6.0\MS_PlantOrg.deps.json
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze back end 11.28.23\MS_PlantOrg\MS_PlantOrg\bin\Debug\net6.0\MS_PlantOrg.runtimeconfig.json
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze back end 11.28.23\MS_PlantOrg\MS_PlantOrg\bin\Debug\net6.0\MS_PlantOrg.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze back end 11.28.23\MS_PlantOrg\MS_PlantOrg\bin\Debug\net6.0\MS_PlantOrg.pdb
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze back end 11.28.23\MS_PlantOrg\MS_PlantOrg\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze back end 11.28.23\MS_PlantOrg\MS_PlantOrg\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze back end 11.28.23\MS_PlantOrg\MS_PlantOrg\bin\Debug\net6.0\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze back end 11.28.23\MS_PlantOrg\MS_PlantOrg\bin\Debug\net6.0\Microsoft.AspNetCore.Http.Connections.Client.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze back end 11.28.23\MS_PlantOrg\MS_PlantOrg\bin\Debug\net6.0\Microsoft.AspNetCore.Http.Connections.Common.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze back end 11.28.23\MS_PlantOrg\MS_PlantOrg\bin\Debug\net6.0\Microsoft.AspNetCore.SignalR.Client.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze back end 11.28.23\MS_PlantOrg\MS_PlantOrg\bin\Debug\net6.0\Microsoft.AspNetCore.SignalR.Client.Core.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze back end 11.28.23\MS_PlantOrg\MS_PlantOrg\bin\Debug\net6.0\Microsoft.AspNetCore.SignalR.Common.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze back end 11.28.23\MS_PlantOrg\MS_PlantOrg\bin\Debug\net6.0\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze back end 11.28.23\MS_PlantOrg\MS_PlantOrg\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze back end 11.28.23\MS_PlantOrg\MS_PlantOrg\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze back end 11.28.23\MS_PlantOrg\MS_PlantOrg\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze back end 11.28.23\MS_PlantOrg\MS_PlantOrg\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze back end 11.28.23\MS_PlantOrg\MS_PlantOrg\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze back end 11.28.23\MS_PlantOrg\MS_PlantOrg\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze back end 11.28.23\MS_PlantOrg\MS_PlantOrg\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze back end 11.28.23\MS_PlantOrg\MS_PlantOrg\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze back end 11.28.23\MS_PlantOrg\MS_PlantOrg\bin\Debug\net6.0\Microsoft.Extensions.Features.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze back end 11.28.23\MS_PlantOrg\MS_PlantOrg\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze back end 11.28.23\MS_PlantOrg\MS_PlantOrg\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze back end 11.28.23\MS_PlantOrg\MS_PlantOrg\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze back end 11.28.23\MS_PlantOrg\MS_PlantOrg\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze back end 11.28.23\MS_PlantOrg\MS_PlantOrg\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze back end 11.28.23\MS_PlantOrg\MS_PlantOrg\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze back end 11.28.23\MS_PlantOrg\MS_PlantOrg\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze back end 11.28.23\MS_PlantOrg\MS_PlantOrg\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze back end 11.28.23\MS_PlantOrg\MS_PlantOrg\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze back end 11.28.23\MS_PlantOrg\MS_PlantOrg\bin\Debug\net6.0\Namotion.Reflection.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze back end 11.28.23\MS_PlantOrg\MS_PlantOrg\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze back end 11.28.23\MS_PlantOrg\MS_PlantOrg\bin\Debug\net6.0\NJsonSchema.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze back end 11.28.23\MS_PlantOrg\MS_PlantOrg\bin\Debug\net6.0\NJsonSchema.Yaml.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze back end 11.28.23\MS_PlantOrg\MS_PlantOrg\bin\Debug\net6.0\NSwag.Annotations.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze back end 11.28.23\MS_PlantOrg\MS_PlantOrg\bin\Debug\net6.0\NSwag.AspNetCore.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze back end 11.28.23\MS_PlantOrg\MS_PlantOrg\bin\Debug\net6.0\NSwag.Core.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze back end 11.28.23\MS_PlantOrg\MS_PlantOrg\bin\Debug\net6.0\NSwag.Core.Yaml.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze back end 11.28.23\MS_PlantOrg\MS_PlantOrg\bin\Debug\net6.0\NSwag.Generation.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze back end 11.28.23\MS_PlantOrg\MS_PlantOrg\bin\Debug\net6.0\NSwag.Generation.AspNetCore.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze back end 11.28.23\MS_PlantOrg\MS_PlantOrg\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze back end 11.28.23\MS_PlantOrg\MS_PlantOrg\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze back end 11.28.23\MS_PlantOrg\MS_PlantOrg\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze back end 11.28.23\MS_PlantOrg\MS_PlantOrg\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze back end 11.28.23\MS_PlantOrg\MS_PlantOrg\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze back end 11.28.23\MS_PlantOrg\MS_PlantOrg\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze back end 11.28.23\MS_PlantOrg\MS_PlantOrg\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze back end 11.28.23\MS_PlantOrg\MS_PlantOrg\bin\Debug\net6.0\System.IO.Pipelines.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze back end 11.28.23\MS_PlantOrg\MS_PlantOrg\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze back end 11.28.23\MS_PlantOrg\MS_PlantOrg\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze back end 11.28.23\MS_PlantOrg\MS_PlantOrg\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze back end 11.28.23\MS_PlantOrg\MS_PlantOrg\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze back end 11.28.23\MS_PlantOrg\MS_PlantOrg\bin\Debug\net6.0\YamlDotNet.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze back end 11.28.23\MS_PlantOrg\MS_PlantOrg\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze back end 11.28.23\MS_PlantOrg\MS_PlantOrg\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze back end 11.28.23\MS_PlantOrg\MS_PlantOrg\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze back end 11.28.23\MS_PlantOrg\MS_PlantOrg\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze back end 11.28.23\MS_PlantOrg\MS_PlantOrg\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze back end 11.28.23\MS_PlantOrg\MS_PlantOrg\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze back end 11.28.23\MS_PlantOrg\MS_PlantOrg\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze back end 11.28.23\MS_PlantOrg\MS_PlantOrg\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze back end 11.28.23\MS_PlantOrg\MS_PlantOrg\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze back end 11.28.23\MS_PlantOrg\MS_PlantOrg\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze back end 11.28.23\MS_PlantOrg\MS_PlantOrg\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze back end 11.28.23\MS_PlantOrg\MS_PlantOrg\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze back end 11.28.23\MS_PlantOrg\MS_PlantOrg\obj\Debug\net6.0\MS_PlantOrg.csproj.AssemblyReference.cache
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze back end 11.28.23\MS_PlantOrg\MS_PlantOrg\obj\Debug\net6.0\MS_PlantOrg.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze back end 11.28.23\MS_PlantOrg\MS_PlantOrg\obj\Debug\net6.0\MS_PlantOrg.AssemblyInfoInputs.cache
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze back end 11.28.23\MS_PlantOrg\MS_PlantOrg\obj\Debug\net6.0\MS_PlantOrg.AssemblyInfo.cs
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze back end 11.28.23\MS_PlantOrg\MS_PlantOrg\obj\Debug\net6.0\MS_PlantOrg.csproj.CoreCompileInputs.cache
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze back end 11.28.23\MS_PlantOrg\MS_PlantOrg\obj\Debug\net6.0\MS_PlantOrg.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze back end 11.28.23\MS_PlantOrg\MS_PlantOrg\obj\Debug\net6.0\MS_PlantOrg.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze back end 11.28.23\MS_PlantOrg\MS_PlantOrg\obj\Debug\net6.0\staticwebassets\msbuild.MS_PlantOrg.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze back end 11.28.23\MS_PlantOrg\MS_PlantOrg\obj\Debug\net6.0\staticwebassets\msbuild.build.MS_PlantOrg.props
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze back end 11.28.23\MS_PlantOrg\MS_PlantOrg\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.MS_PlantOrg.props
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze back end 11.28.23\MS_PlantOrg\MS_PlantOrg\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.MS_PlantOrg.props
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze back end 11.28.23\MS_PlantOrg\MS_PlantOrg\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze back end 11.28.23\MS_PlantOrg\MS_PlantOrg\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze back end 11.28.23\MS_PlantOrg\MS_PlantOrg\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze back end 11.28.23\MS_PlantOrg\MS_PlantOrg\obj\Debug\net6.0\scopedcss\bundle\MS_PlantOrg.styles.css
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze back end 11.28.23\MS_PlantOrg\MS_PlantOrg\obj\Debug\net6.0\MS_PlantOrg.csproj.CopyComplete
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze back end 11.28.23\MS_PlantOrg\MS_PlantOrg\obj\Debug\net6.0\MS_PlantOrg.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze back end 11.28.23\MS_PlantOrg\MS_PlantOrg\obj\Debug\net6.0\refint\MS_PlantOrg.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze back end 11.28.23\MS_PlantOrg\MS_PlantOrg\obj\Debug\net6.0\MS_PlantOrg.pdb
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze back end 11.28.23\MS_PlantOrg\MS_PlantOrg\obj\Debug\net6.0\MS_PlantOrg.genruntimeconfig.cache
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze back end 11.28.23\MS_PlantOrg\MS_PlantOrg\obj\Debug\net6.0\ref\MS_PlantOrg.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze full stack 11.28.23\En teze back end 11.28.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze full stack 11.28.23\En teze back end 11.28.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\appsettings.json
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze full stack 11.28.23\En teze back end 11.28.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\MS_PlantOrg.staticwebassets.runtime.json
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze full stack 11.28.23\En teze back end 11.28.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\MS_PlantOrg.exe
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze full stack 11.28.23\En teze back end 11.28.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\MS_PlantOrg.deps.json
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze full stack 11.28.23\En teze back end 11.28.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\MS_PlantOrg.runtimeconfig.json
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze full stack 11.28.23\En teze back end 11.28.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\MS_PlantOrg.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze full stack 11.28.23\En teze back end 11.28.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\MS_PlantOrg.pdb
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze full stack 11.28.23\En teze back end 11.28.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze full stack 11.28.23\En teze back end 11.28.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze full stack 11.28.23\En teze back end 11.28.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze full stack 11.28.23\En teze back end 11.28.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\Microsoft.AspNetCore.Http.Connections.Client.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze full stack 11.28.23\En teze back end 11.28.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\Microsoft.AspNetCore.Http.Connections.Common.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze full stack 11.28.23\En teze back end 11.28.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\Microsoft.AspNetCore.SignalR.Client.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze full stack 11.28.23\En teze back end 11.28.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\Microsoft.AspNetCore.SignalR.Client.Core.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze full stack 11.28.23\En teze back end 11.28.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\Microsoft.AspNetCore.SignalR.Common.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze full stack 11.28.23\En teze back end 11.28.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze full stack 11.28.23\En teze back end 11.28.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze full stack 11.28.23\En teze back end 11.28.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze full stack 11.28.23\En teze back end 11.28.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze full stack 11.28.23\En teze back end 11.28.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze full stack 11.28.23\En teze back end 11.28.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze full stack 11.28.23\En teze back end 11.28.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze full stack 11.28.23\En teze back end 11.28.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze full stack 11.28.23\En teze back end 11.28.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze full stack 11.28.23\En teze back end 11.28.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\Microsoft.Extensions.Features.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze full stack 11.28.23\En teze back end 11.28.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze full stack 11.28.23\En teze back end 11.28.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze full stack 11.28.23\En teze back end 11.28.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze full stack 11.28.23\En teze back end 11.28.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze full stack 11.28.23\En teze back end 11.28.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze full stack 11.28.23\En teze back end 11.28.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze full stack 11.28.23\En teze back end 11.28.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze full stack 11.28.23\En teze back end 11.28.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze full stack 11.28.23\En teze back end 11.28.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze full stack 11.28.23\En teze back end 11.28.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\Namotion.Reflection.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze full stack 11.28.23\En teze back end 11.28.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze full stack 11.28.23\En teze back end 11.28.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\NJsonSchema.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze full stack 11.28.23\En teze back end 11.28.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\NJsonSchema.Yaml.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze full stack 11.28.23\En teze back end 11.28.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\NSwag.Annotations.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze full stack 11.28.23\En teze back end 11.28.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\NSwag.AspNetCore.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze full stack 11.28.23\En teze back end 11.28.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\NSwag.Core.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze full stack 11.28.23\En teze back end 11.28.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\NSwag.Core.Yaml.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze full stack 11.28.23\En teze back end 11.28.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\NSwag.Generation.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze full stack 11.28.23\En teze back end 11.28.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\NSwag.Generation.AspNetCore.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze full stack 11.28.23\En teze back end 11.28.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze full stack 11.28.23\En teze back end 11.28.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze full stack 11.28.23\En teze back end 11.28.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze full stack 11.28.23\En teze back end 11.28.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze full stack 11.28.23\En teze back end 11.28.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze full stack 11.28.23\En teze back end 11.28.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze full stack 11.28.23\En teze back end 11.28.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze full stack 11.28.23\En teze back end 11.28.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\System.IO.Pipelines.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze full stack 11.28.23\En teze back end 11.28.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze full stack 11.28.23\En teze back end 11.28.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze full stack 11.28.23\En teze back end 11.28.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze full stack 11.28.23\En teze back end 11.28.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze full stack 11.28.23\En teze back end 11.28.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\YamlDotNet.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze full stack 11.28.23\En teze back end 11.28.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze full stack 11.28.23\En teze back end 11.28.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze full stack 11.28.23\En teze back end 11.28.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze full stack 11.28.23\En teze back end 11.28.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze full stack 11.28.23\En teze back end 11.28.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze full stack 11.28.23\En teze back end 11.28.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze full stack 11.28.23\En teze back end 11.28.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze full stack 11.28.23\En teze back end 11.28.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze full stack 11.28.23\En teze back end 11.28.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze full stack 11.28.23\En teze back end 11.28.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze full stack 11.28.23\En teze back end 11.28.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze full stack 11.28.23\En teze back end 11.28.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze full stack 11.28.23\En teze back end 11.28.23\MS_PlantOrg_finish\MS_PlantOrg\obj\Debug\net6.0\MS_PlantOrg.csproj.AssemblyReference.cache
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze full stack 11.28.23\En teze back end 11.28.23\MS_PlantOrg_finish\MS_PlantOrg\obj\Debug\net6.0\MS_PlantOrg.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze full stack 11.28.23\En teze back end 11.28.23\MS_PlantOrg_finish\MS_PlantOrg\obj\Debug\net6.0\MS_PlantOrg.AssemblyInfoInputs.cache
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze full stack 11.28.23\En teze back end 11.28.23\MS_PlantOrg_finish\MS_PlantOrg\obj\Debug\net6.0\MS_PlantOrg.AssemblyInfo.cs
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze full stack 11.28.23\En teze back end 11.28.23\MS_PlantOrg_finish\MS_PlantOrg\obj\Debug\net6.0\MS_PlantOrg.csproj.CoreCompileInputs.cache
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze full stack 11.28.23\En teze back end 11.28.23\MS_PlantOrg_finish\MS_PlantOrg\obj\Debug\net6.0\MS_PlantOrg.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze full stack 11.28.23\En teze back end 11.28.23\MS_PlantOrg_finish\MS_PlantOrg\obj\Debug\net6.0\MS_PlantOrg.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze full stack 11.28.23\En teze back end 11.28.23\MS_PlantOrg_finish\MS_PlantOrg\obj\Debug\net6.0\staticwebassets\msbuild.MS_PlantOrg.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze full stack 11.28.23\En teze back end 11.28.23\MS_PlantOrg_finish\MS_PlantOrg\obj\Debug\net6.0\staticwebassets\msbuild.build.MS_PlantOrg.props
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze full stack 11.28.23\En teze back end 11.28.23\MS_PlantOrg_finish\MS_PlantOrg\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.MS_PlantOrg.props
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze full stack 11.28.23\En teze back end 11.28.23\MS_PlantOrg_finish\MS_PlantOrg\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.MS_PlantOrg.props
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze full stack 11.28.23\En teze back end 11.28.23\MS_PlantOrg_finish\MS_PlantOrg\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze full stack 11.28.23\En teze back end 11.28.23\MS_PlantOrg_finish\MS_PlantOrg\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze full stack 11.28.23\En teze back end 11.28.23\MS_PlantOrg_finish\MS_PlantOrg\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze full stack 11.28.23\En teze back end 11.28.23\MS_PlantOrg_finish\MS_PlantOrg\obj\Debug\net6.0\scopedcss\bundle\MS_PlantOrg.styles.css
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze full stack 11.28.23\En teze back end 11.28.23\MS_PlantOrg_finish\MS_PlantOrg\obj\Debug\net6.0\MS_PlantOrg.csproj.CopyComplete
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze full stack 11.28.23\En teze back end 11.28.23\MS_PlantOrg_finish\MS_PlantOrg\obj\Debug\net6.0\MS_PlantOrg.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze full stack 11.28.23\En teze back end 11.28.23\MS_PlantOrg_finish\MS_PlantOrg\obj\Debug\net6.0\refint\MS_PlantOrg.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze full stack 11.28.23\En teze back end 11.28.23\MS_PlantOrg_finish\MS_PlantOrg\obj\Debug\net6.0\MS_PlantOrg.pdb
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze full stack 11.28.23\En teze back end 11.28.23\MS_PlantOrg_finish\MS_PlantOrg\obj\Debug\net6.0\MS_PlantOrg.genruntimeconfig.cache
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze full stack 11.28.23\En teze back end 11.28.23\MS_PlantOrg_finish\MS_PlantOrg\obj\Debug\net6.0\ref\MS_PlantOrg.dll
+D:\En teze layihe 01-12-23\En teze back end 11.28.23\MS_PlantOrg_finish\MS_PlantOrg\obj\Debug\net6.0\MS_PlantOrg.csproj.AssemblyReference.cache
+D:\En teze layihe 01-12-23\En teze back end 11.28.23\MS_PlantOrg_finish\MS_PlantOrg\obj\Debug\net6.0\MS_PlantOrg.GeneratedMSBuildEditorConfig.editorconfig
+D:\En teze layihe 01-12-23\En teze back end 11.28.23\MS_PlantOrg_finish\MS_PlantOrg\obj\Debug\net6.0\MS_PlantOrg.AssemblyInfoInputs.cache
+D:\En teze layihe 01-12-23\En teze back end 11.28.23\MS_PlantOrg_finish\MS_PlantOrg\obj\Debug\net6.0\MS_PlantOrg.AssemblyInfo.cs
+D:\En teze layihe 01-12-23\En teze back end 11.28.23\MS_PlantOrg_finish\MS_PlantOrg\obj\Debug\net6.0\MS_PlantOrg.csproj.CoreCompileInputs.cache
+D:\En teze layihe 01-12-23\En teze back end 11.28.23\MS_PlantOrg_finish\MS_PlantOrg\obj\Debug\net6.0\MS_PlantOrg.MvcApplicationPartsAssemblyInfo.cs
+D:\En teze layihe 01-12-23\En teze back end 11.28.23\MS_PlantOrg_finish\MS_PlantOrg\obj\Debug\net6.0\MS_PlantOrg.MvcApplicationPartsAssemblyInfo.cache
+D:\En teze layihe 01-12-23\En teze back end 11.28.23\MS_PlantOrg_finish\MS_PlantOrg\obj\Debug\net6.0\MS_PlantOrg.dll
+D:\En teze layihe 01-12-23\En teze back end 11.28.23\MS_PlantOrg_finish\MS_PlantOrg\obj\Debug\net6.0\refint\MS_PlantOrg.dll
+D:\En teze layihe 01-12-23\En teze back end 11.28.23\MS_PlantOrg_finish\MS_PlantOrg\obj\Debug\net6.0\MS_PlantOrg.pdb
+D:\En teze layihe 01-12-23\En teze back end 11.28.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\appsettings.Development.json
+D:\En teze layihe 01-12-23\En teze back end 11.28.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\appsettings.json
+D:\En teze layihe 01-12-23\En teze back end 11.28.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\MS_PlantOrg.staticwebassets.runtime.json
+D:\En teze layihe 01-12-23\En teze back end 11.28.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\MS_PlantOrg.exe
+D:\En teze layihe 01-12-23\En teze back end 11.28.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\MS_PlantOrg.deps.json
+D:\En teze layihe 01-12-23\En teze back end 11.28.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\MS_PlantOrg.runtimeconfig.json
+D:\En teze layihe 01-12-23\En teze back end 11.28.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\MS_PlantOrg.dll
+D:\En teze layihe 01-12-23\En teze back end 11.28.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\MS_PlantOrg.pdb
+D:\En teze layihe 01-12-23\En teze back end 11.28.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\Humanizer.dll
+D:\En teze layihe 01-12-23\En teze back end 11.28.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\En teze layihe 01-12-23\En teze back end 11.28.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\Microsoft.AspNetCore.Connections.Abstractions.dll
+D:\En teze layihe 01-12-23\En teze back end 11.28.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\Microsoft.AspNetCore.Http.Connections.Client.dll
+D:\En teze layihe 01-12-23\En teze back end 11.28.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\Microsoft.AspNetCore.Http.Connections.Common.dll
+D:\En teze layihe 01-12-23\En teze back end 11.28.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\Microsoft.AspNetCore.SignalR.Client.dll
+D:\En teze layihe 01-12-23\En teze back end 11.28.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\Microsoft.AspNetCore.SignalR.Client.Core.dll
+D:\En teze layihe 01-12-23\En teze back end 11.28.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\Microsoft.AspNetCore.SignalR.Common.dll
+D:\En teze layihe 01-12-23\En teze back end 11.28.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+D:\En teze layihe 01-12-23\En teze back end 11.28.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\En teze layihe 01-12-23\En teze back end 11.28.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\En teze layihe 01-12-23\En teze back end 11.28.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\En teze layihe 01-12-23\En teze back end 11.28.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\En teze layihe 01-12-23\En teze back end 11.28.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\En teze layihe 01-12-23\En teze back end 11.28.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\En teze layihe 01-12-23\En teze back end 11.28.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\En teze layihe 01-12-23\En teze back end 11.28.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\En teze layihe 01-12-23\En teze back end 11.28.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\Microsoft.Extensions.Features.dll
+D:\En teze layihe 01-12-23\En teze back end 11.28.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\En teze layihe 01-12-23\En teze back end 11.28.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\En teze layihe 01-12-23\En teze back end 11.28.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\En teze layihe 01-12-23\En teze back end 11.28.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\En teze layihe 01-12-23\En teze back end 11.28.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\En teze layihe 01-12-23\En teze back end 11.28.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\En teze layihe 01-12-23\En teze back end 11.28.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\En teze layihe 01-12-23\En teze back end 11.28.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\En teze layihe 01-12-23\En teze back end 11.28.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\En teze layihe 01-12-23\En teze back end 11.28.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\Namotion.Reflection.dll
+D:\En teze layihe 01-12-23\En teze back end 11.28.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\En teze layihe 01-12-23\En teze back end 11.28.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\NJsonSchema.dll
+D:\En teze layihe 01-12-23\En teze back end 11.28.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\NJsonSchema.Yaml.dll
+D:\En teze layihe 01-12-23\En teze back end 11.28.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\NSwag.Annotations.dll
+D:\En teze layihe 01-12-23\En teze back end 11.28.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\NSwag.AspNetCore.dll
+D:\En teze layihe 01-12-23\En teze back end 11.28.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\NSwag.Core.dll
+D:\En teze layihe 01-12-23\En teze back end 11.28.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\NSwag.Core.Yaml.dll
+D:\En teze layihe 01-12-23\En teze back end 11.28.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\NSwag.Generation.dll
+D:\En teze layihe 01-12-23\En teze back end 11.28.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\NSwag.Generation.AspNetCore.dll
+D:\En teze layihe 01-12-23\En teze back end 11.28.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\En teze layihe 01-12-23\En teze back end 11.28.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\En teze layihe 01-12-23\En teze back end 11.28.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\En teze layihe 01-12-23\En teze back end 11.28.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\En teze layihe 01-12-23\En teze back end 11.28.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\En teze layihe 01-12-23\En teze back end 11.28.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\En teze layihe 01-12-23\En teze back end 11.28.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\En teze layihe 01-12-23\En teze back end 11.28.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\System.IO.Pipelines.dll
+D:\En teze layihe 01-12-23\En teze back end 11.28.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\En teze layihe 01-12-23\En teze back end 11.28.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\En teze layihe 01-12-23\En teze back end 11.28.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\En teze layihe 01-12-23\En teze back end 11.28.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\En teze layihe 01-12-23\En teze back end 11.28.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\YamlDotNet.dll
+D:\En teze layihe 01-12-23\En teze back end 11.28.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\En teze layihe 01-12-23\En teze back end 11.28.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\En teze layihe 01-12-23\En teze back end 11.28.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\En teze layihe 01-12-23\En teze back end 11.28.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\En teze layihe 01-12-23\En teze back end 11.28.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\En teze layihe 01-12-23\En teze back end 11.28.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\En teze layihe 01-12-23\En teze back end 11.28.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\En teze layihe 01-12-23\En teze back end 11.28.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\En teze layihe 01-12-23\En teze back end 11.28.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\En teze layihe 01-12-23\En teze back end 11.28.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\En teze layihe 01-12-23\En teze back end 11.28.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\En teze layihe 01-12-23\En teze back end 11.28.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\En teze layihe 01-12-23\En teze back end 11.28.23\MS_PlantOrg_finish\MS_PlantOrg\obj\Debug\net6.0\staticwebassets\msbuild.MS_PlantOrg.Microsoft.AspNetCore.StaticWebAssets.props
+D:\En teze layihe 01-12-23\En teze back end 11.28.23\MS_PlantOrg_finish\MS_PlantOrg\obj\Debug\net6.0\staticwebassets\msbuild.build.MS_PlantOrg.props
+D:\En teze layihe 01-12-23\En teze back end 11.28.23\MS_PlantOrg_finish\MS_PlantOrg\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.MS_PlantOrg.props
+D:\En teze layihe 01-12-23\En teze back end 11.28.23\MS_PlantOrg_finish\MS_PlantOrg\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.MS_PlantOrg.props
+D:\En teze layihe 01-12-23\En teze back end 11.28.23\MS_PlantOrg_finish\MS_PlantOrg\obj\Debug\net6.0\staticwebassets.pack.json
+D:\En teze layihe 01-12-23\En teze back end 11.28.23\MS_PlantOrg_finish\MS_PlantOrg\obj\Debug\net6.0\staticwebassets.build.json
+D:\En teze layihe 01-12-23\En teze back end 11.28.23\MS_PlantOrg_finish\MS_PlantOrg\obj\Debug\net6.0\staticwebassets.development.json
+D:\En teze layihe 01-12-23\En teze back end 11.28.23\MS_PlantOrg_finish\MS_PlantOrg\obj\Debug\net6.0\scopedcss\bundle\MS_PlantOrg.styles.css
+D:\En teze layihe 01-12-23\En teze back end 11.28.23\MS_PlantOrg_finish\MS_PlantOrg\obj\Debug\net6.0\MS_PlantOrg.csproj.CopyComplete
+D:\En teze layihe 01-12-23\En teze back end 11.28.23\MS_PlantOrg_finish\MS_PlantOrg\obj\Debug\net6.0\MS_PlantOrg.genruntimeconfig.cache
+D:\En teze layihe 01-12-23\En teze back end 11.28.23\MS_PlantOrg_finish\MS_PlantOrg\obj\Debug\net6.0\ref\MS_PlantOrg.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze full stack 12.01.23\En teze back end 12.01.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze full stack 12.01.23\En teze back end 12.01.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\appsettings.json
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze full stack 12.01.23\En teze back end 12.01.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\MS_PlantOrg.staticwebassets.runtime.json
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze full stack 12.01.23\En teze back end 12.01.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\MS_PlantOrg.exe
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze full stack 12.01.23\En teze back end 12.01.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\MS_PlantOrg.deps.json
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze full stack 12.01.23\En teze back end 12.01.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\MS_PlantOrg.runtimeconfig.json
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze full stack 12.01.23\En teze back end 12.01.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\MS_PlantOrg.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze full stack 12.01.23\En teze back end 12.01.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\MS_PlantOrg.pdb
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze full stack 12.01.23\En teze back end 12.01.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze full stack 12.01.23\En teze back end 12.01.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze full stack 12.01.23\En teze back end 12.01.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze full stack 12.01.23\En teze back end 12.01.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\Microsoft.AspNetCore.Http.Connections.Client.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze full stack 12.01.23\En teze back end 12.01.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\Microsoft.AspNetCore.Http.Connections.Common.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze full stack 12.01.23\En teze back end 12.01.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\Microsoft.AspNetCore.SignalR.Client.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze full stack 12.01.23\En teze back end 12.01.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\Microsoft.AspNetCore.SignalR.Client.Core.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze full stack 12.01.23\En teze back end 12.01.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\Microsoft.AspNetCore.SignalR.Common.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze full stack 12.01.23\En teze back end 12.01.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze full stack 12.01.23\En teze back end 12.01.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze full stack 12.01.23\En teze back end 12.01.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze full stack 12.01.23\En teze back end 12.01.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze full stack 12.01.23\En teze back end 12.01.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze full stack 12.01.23\En teze back end 12.01.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze full stack 12.01.23\En teze back end 12.01.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze full stack 12.01.23\En teze back end 12.01.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze full stack 12.01.23\En teze back end 12.01.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze full stack 12.01.23\En teze back end 12.01.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\Microsoft.Extensions.Features.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze full stack 12.01.23\En teze back end 12.01.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze full stack 12.01.23\En teze back end 12.01.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze full stack 12.01.23\En teze back end 12.01.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze full stack 12.01.23\En teze back end 12.01.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze full stack 12.01.23\En teze back end 12.01.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze full stack 12.01.23\En teze back end 12.01.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze full stack 12.01.23\En teze back end 12.01.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze full stack 12.01.23\En teze back end 12.01.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze full stack 12.01.23\En teze back end 12.01.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze full stack 12.01.23\En teze back end 12.01.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\Namotion.Reflection.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze full stack 12.01.23\En teze back end 12.01.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze full stack 12.01.23\En teze back end 12.01.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\NJsonSchema.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze full stack 12.01.23\En teze back end 12.01.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\NJsonSchema.Yaml.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze full stack 12.01.23\En teze back end 12.01.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\NSwag.Annotations.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze full stack 12.01.23\En teze back end 12.01.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\NSwag.AspNetCore.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze full stack 12.01.23\En teze back end 12.01.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\NSwag.Core.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze full stack 12.01.23\En teze back end 12.01.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\NSwag.Core.Yaml.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze full stack 12.01.23\En teze back end 12.01.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\NSwag.Generation.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze full stack 12.01.23\En teze back end 12.01.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\NSwag.Generation.AspNetCore.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze full stack 12.01.23\En teze back end 12.01.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze full stack 12.01.23\En teze back end 12.01.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze full stack 12.01.23\En teze back end 12.01.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze full stack 12.01.23\En teze back end 12.01.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze full stack 12.01.23\En teze back end 12.01.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze full stack 12.01.23\En teze back end 12.01.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze full stack 12.01.23\En teze back end 12.01.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze full stack 12.01.23\En teze back end 12.01.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\System.IO.Pipelines.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze full stack 12.01.23\En teze back end 12.01.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze full stack 12.01.23\En teze back end 12.01.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze full stack 12.01.23\En teze back end 12.01.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze full stack 12.01.23\En teze back end 12.01.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze full stack 12.01.23\En teze back end 12.01.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\YamlDotNet.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze full stack 12.01.23\En teze back end 12.01.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze full stack 12.01.23\En teze back end 12.01.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze full stack 12.01.23\En teze back end 12.01.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze full stack 12.01.23\En teze back end 12.01.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze full stack 12.01.23\En teze back end 12.01.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze full stack 12.01.23\En teze back end 12.01.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze full stack 12.01.23\En teze back end 12.01.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze full stack 12.01.23\En teze back end 12.01.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze full stack 12.01.23\En teze back end 12.01.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze full stack 12.01.23\En teze back end 12.01.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze full stack 12.01.23\En teze back end 12.01.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze full stack 12.01.23\En teze back end 12.01.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze full stack 12.01.23\En teze back end 12.01.23\MS_PlantOrg_finish\MS_PlantOrg\obj\Debug\net6.0\MS_PlantOrg.csproj.AssemblyReference.cache
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze full stack 12.01.23\En teze back end 12.01.23\MS_PlantOrg_finish\MS_PlantOrg\obj\Debug\net6.0\MS_PlantOrg.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze full stack 12.01.23\En teze back end 12.01.23\MS_PlantOrg_finish\MS_PlantOrg\obj\Debug\net6.0\MS_PlantOrg.AssemblyInfoInputs.cache
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze full stack 12.01.23\En teze back end 12.01.23\MS_PlantOrg_finish\MS_PlantOrg\obj\Debug\net6.0\MS_PlantOrg.AssemblyInfo.cs
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze full stack 12.01.23\En teze back end 12.01.23\MS_PlantOrg_finish\MS_PlantOrg\obj\Debug\net6.0\MS_PlantOrg.csproj.CoreCompileInputs.cache
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze full stack 12.01.23\En teze back end 12.01.23\MS_PlantOrg_finish\MS_PlantOrg\obj\Debug\net6.0\MS_PlantOrg.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze full stack 12.01.23\En teze back end 12.01.23\MS_PlantOrg_finish\MS_PlantOrg\obj\Debug\net6.0\MS_PlantOrg.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze full stack 12.01.23\En teze back end 12.01.23\MS_PlantOrg_finish\MS_PlantOrg\obj\Debug\net6.0\staticwebassets\msbuild.MS_PlantOrg.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze full stack 12.01.23\En teze back end 12.01.23\MS_PlantOrg_finish\MS_PlantOrg\obj\Debug\net6.0\staticwebassets\msbuild.build.MS_PlantOrg.props
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze full stack 12.01.23\En teze back end 12.01.23\MS_PlantOrg_finish\MS_PlantOrg\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.MS_PlantOrg.props
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze full stack 12.01.23\En teze back end 12.01.23\MS_PlantOrg_finish\MS_PlantOrg\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.MS_PlantOrg.props
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze full stack 12.01.23\En teze back end 12.01.23\MS_PlantOrg_finish\MS_PlantOrg\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze full stack 12.01.23\En teze back end 12.01.23\MS_PlantOrg_finish\MS_PlantOrg\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze full stack 12.01.23\En teze back end 12.01.23\MS_PlantOrg_finish\MS_PlantOrg\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze full stack 12.01.23\En teze back end 12.01.23\MS_PlantOrg_finish\MS_PlantOrg\obj\Debug\net6.0\scopedcss\bundle\MS_PlantOrg.styles.css
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze full stack 12.01.23\En teze back end 12.01.23\MS_PlantOrg_finish\MS_PlantOrg\obj\Debug\net6.0\MS_PlantOrg.csproj.CopyComplete
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze full stack 12.01.23\En teze back end 12.01.23\MS_PlantOrg_finish\MS_PlantOrg\obj\Debug\net6.0\MS_PlantOrg.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze full stack 12.01.23\En teze back end 12.01.23\MS_PlantOrg_finish\MS_PlantOrg\obj\Debug\net6.0\refint\MS_PlantOrg.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze full stack 12.01.23\En teze back end 12.01.23\MS_PlantOrg_finish\MS_PlantOrg\obj\Debug\net6.0\MS_PlantOrg.pdb
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze full stack 12.01.23\En teze back end 12.01.23\MS_PlantOrg_finish\MS_PlantOrg\obj\Debug\net6.0\MS_PlantOrg.genruntimeconfig.cache
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze full stack 12.01.23\En teze back end 12.01.23\MS_PlantOrg_finish\MS_PlantOrg\obj\Debug\net6.0\ref\MS_PlantOrg.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze full stack 12.01.23\En teze back end 12.02.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze full stack 12.01.23\En teze back end 12.02.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\appsettings.json
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze full stack 12.01.23\En teze back end 12.02.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\MS_PlantOrg.staticwebassets.runtime.json
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze full stack 12.01.23\En teze back end 12.02.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\MS_PlantOrg.exe
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze full stack 12.01.23\En teze back end 12.02.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\MS_PlantOrg.deps.json
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze full stack 12.01.23\En teze back end 12.02.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\MS_PlantOrg.runtimeconfig.json
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze full stack 12.01.23\En teze back end 12.02.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\MS_PlantOrg.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze full stack 12.01.23\En teze back end 12.02.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\MS_PlantOrg.pdb
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze full stack 12.01.23\En teze back end 12.02.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze full stack 12.01.23\En teze back end 12.02.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze full stack 12.01.23\En teze back end 12.02.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze full stack 12.01.23\En teze back end 12.02.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\Microsoft.AspNetCore.Http.Connections.Client.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze full stack 12.01.23\En teze back end 12.02.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\Microsoft.AspNetCore.Http.Connections.Common.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze full stack 12.01.23\En teze back end 12.02.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\Microsoft.AspNetCore.SignalR.Client.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze full stack 12.01.23\En teze back end 12.02.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\Microsoft.AspNetCore.SignalR.Client.Core.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze full stack 12.01.23\En teze back end 12.02.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\Microsoft.AspNetCore.SignalR.Common.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze full stack 12.01.23\En teze back end 12.02.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze full stack 12.01.23\En teze back end 12.02.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze full stack 12.01.23\En teze back end 12.02.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze full stack 12.01.23\En teze back end 12.02.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze full stack 12.01.23\En teze back end 12.02.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze full stack 12.01.23\En teze back end 12.02.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze full stack 12.01.23\En teze back end 12.02.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze full stack 12.01.23\En teze back end 12.02.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze full stack 12.01.23\En teze back end 12.02.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze full stack 12.01.23\En teze back end 12.02.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\Microsoft.Extensions.Features.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze full stack 12.01.23\En teze back end 12.02.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze full stack 12.01.23\En teze back end 12.02.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze full stack 12.01.23\En teze back end 12.02.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze full stack 12.01.23\En teze back end 12.02.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze full stack 12.01.23\En teze back end 12.02.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze full stack 12.01.23\En teze back end 12.02.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze full stack 12.01.23\En teze back end 12.02.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze full stack 12.01.23\En teze back end 12.02.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze full stack 12.01.23\En teze back end 12.02.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze full stack 12.01.23\En teze back end 12.02.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\Namotion.Reflection.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze full stack 12.01.23\En teze back end 12.02.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze full stack 12.01.23\En teze back end 12.02.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\NJsonSchema.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze full stack 12.01.23\En teze back end 12.02.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\NJsonSchema.Yaml.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze full stack 12.01.23\En teze back end 12.02.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\NSwag.Annotations.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze full stack 12.01.23\En teze back end 12.02.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\NSwag.AspNetCore.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze full stack 12.01.23\En teze back end 12.02.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\NSwag.Core.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze full stack 12.01.23\En teze back end 12.02.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\NSwag.Core.Yaml.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze full stack 12.01.23\En teze back end 12.02.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\NSwag.Generation.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze full stack 12.01.23\En teze back end 12.02.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\NSwag.Generation.AspNetCore.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze full stack 12.01.23\En teze back end 12.02.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze full stack 12.01.23\En teze back end 12.02.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze full stack 12.01.23\En teze back end 12.02.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze full stack 12.01.23\En teze back end 12.02.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze full stack 12.01.23\En teze back end 12.02.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze full stack 12.01.23\En teze back end 12.02.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze full stack 12.01.23\En teze back end 12.02.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze full stack 12.01.23\En teze back end 12.02.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\System.IO.Pipelines.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze full stack 12.01.23\En teze back end 12.02.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze full stack 12.01.23\En teze back end 12.02.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze full stack 12.01.23\En teze back end 12.02.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze full stack 12.01.23\En teze back end 12.02.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze full stack 12.01.23\En teze back end 12.02.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\YamlDotNet.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze full stack 12.01.23\En teze back end 12.02.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze full stack 12.01.23\En teze back end 12.02.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze full stack 12.01.23\En teze back end 12.02.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze full stack 12.01.23\En teze back end 12.02.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze full stack 12.01.23\En teze back end 12.02.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze full stack 12.01.23\En teze back end 12.02.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze full stack 12.01.23\En teze back end 12.02.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze full stack 12.01.23\En teze back end 12.02.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze full stack 12.01.23\En teze back end 12.02.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze full stack 12.01.23\En teze back end 12.02.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze full stack 12.01.23\En teze back end 12.02.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze full stack 12.01.23\En teze back end 12.02.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze full stack 12.01.23\En teze back end 12.02.23\MS_PlantOrg_finish\MS_PlantOrg\obj\Debug\net6.0\MS_PlantOrg.csproj.AssemblyReference.cache
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze full stack 12.01.23\En teze back end 12.02.23\MS_PlantOrg_finish\MS_PlantOrg\obj\Debug\net6.0\MS_PlantOrg.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze full stack 12.01.23\En teze back end 12.02.23\MS_PlantOrg_finish\MS_PlantOrg\obj\Debug\net6.0\MS_PlantOrg.AssemblyInfoInputs.cache
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze full stack 12.01.23\En teze back end 12.02.23\MS_PlantOrg_finish\MS_PlantOrg\obj\Debug\net6.0\MS_PlantOrg.AssemblyInfo.cs
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze full stack 12.01.23\En teze back end 12.02.23\MS_PlantOrg_finish\MS_PlantOrg\obj\Debug\net6.0\MS_PlantOrg.csproj.CoreCompileInputs.cache
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze full stack 12.01.23\En teze back end 12.02.23\MS_PlantOrg_finish\MS_PlantOrg\obj\Debug\net6.0\MS_PlantOrg.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze full stack 12.01.23\En teze back end 12.02.23\MS_PlantOrg_finish\MS_PlantOrg\obj\Debug\net6.0\MS_PlantOrg.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze full stack 12.01.23\En teze back end 12.02.23\MS_PlantOrg_finish\MS_PlantOrg\obj\Debug\net6.0\staticwebassets\msbuild.MS_PlantOrg.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze full stack 12.01.23\En teze back end 12.02.23\MS_PlantOrg_finish\MS_PlantOrg\obj\Debug\net6.0\staticwebassets\msbuild.build.MS_PlantOrg.props
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze full stack 12.01.23\En teze back end 12.02.23\MS_PlantOrg_finish\MS_PlantOrg\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.MS_PlantOrg.props
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze full stack 12.01.23\En teze back end 12.02.23\MS_PlantOrg_finish\MS_PlantOrg\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.MS_PlantOrg.props
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze full stack 12.01.23\En teze back end 12.02.23\MS_PlantOrg_finish\MS_PlantOrg\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze full stack 12.01.23\En teze back end 12.02.23\MS_PlantOrg_finish\MS_PlantOrg\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze full stack 12.01.23\En teze back end 12.02.23\MS_PlantOrg_finish\MS_PlantOrg\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze full stack 12.01.23\En teze back end 12.02.23\MS_PlantOrg_finish\MS_PlantOrg\obj\Debug\net6.0\scopedcss\bundle\MS_PlantOrg.styles.css
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze full stack 12.01.23\En teze back end 12.02.23\MS_PlantOrg_finish\MS_PlantOrg\obj\Debug\net6.0\MS_PlantOrg.csproj.CopyComplete
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze full stack 12.01.23\En teze back end 12.02.23\MS_PlantOrg_finish\MS_PlantOrg\obj\Debug\net6.0\MS_PlantOrg.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze full stack 12.01.23\En teze back end 12.02.23\MS_PlantOrg_finish\MS_PlantOrg\obj\Debug\net6.0\refint\MS_PlantOrg.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze full stack 12.01.23\En teze back end 12.02.23\MS_PlantOrg_finish\MS_PlantOrg\obj\Debug\net6.0\MS_PlantOrg.pdb
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze full stack 12.01.23\En teze back end 12.02.23\MS_PlantOrg_finish\MS_PlantOrg\obj\Debug\net6.0\MS_PlantOrg.genruntimeconfig.cache
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze full stack 12.01.23\En teze back end 12.02.23\MS_PlantOrg_finish\MS_PlantOrg\obj\Debug\net6.0\ref\MS_PlantOrg.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\Final Layihe Plant\En teze back end 12.02.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\Final Layihe Plant\En teze back end 12.02.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\appsettings.json
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\Final Layihe Plant\En teze back end 12.02.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\MS_PlantOrg.staticwebassets.runtime.json
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\Final Layihe Plant\En teze back end 12.02.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\MS_PlantOrg.exe
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\Final Layihe Plant\En teze back end 12.02.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\MS_PlantOrg.deps.json
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\Final Layihe Plant\En teze back end 12.02.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\MS_PlantOrg.runtimeconfig.json
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\Final Layihe Plant\En teze back end 12.02.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\MS_PlantOrg.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\Final Layihe Plant\En teze back end 12.02.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\MS_PlantOrg.pdb
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\Final Layihe Plant\En teze back end 12.02.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\Final Layihe Plant\En teze back end 12.02.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\Final Layihe Plant\En teze back end 12.02.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\Final Layihe Plant\En teze back end 12.02.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\Microsoft.AspNetCore.Http.Connections.Client.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\Final Layihe Plant\En teze back end 12.02.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\Microsoft.AspNetCore.Http.Connections.Common.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\Final Layihe Plant\En teze back end 12.02.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\Microsoft.AspNetCore.SignalR.Client.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\Final Layihe Plant\En teze back end 12.02.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\Microsoft.AspNetCore.SignalR.Client.Core.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\Final Layihe Plant\En teze back end 12.02.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\Microsoft.AspNetCore.SignalR.Common.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\Final Layihe Plant\En teze back end 12.02.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\Final Layihe Plant\En teze back end 12.02.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\Final Layihe Plant\En teze back end 12.02.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\Final Layihe Plant\En teze back end 12.02.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\Final Layihe Plant\En teze back end 12.02.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\Final Layihe Plant\En teze back end 12.02.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\Final Layihe Plant\En teze back end 12.02.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\Final Layihe Plant\En teze back end 12.02.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\Final Layihe Plant\En teze back end 12.02.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\Final Layihe Plant\En teze back end 12.02.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\Microsoft.Extensions.Features.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\Final Layihe Plant\En teze back end 12.02.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\Final Layihe Plant\En teze back end 12.02.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\Final Layihe Plant\En teze back end 12.02.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\Final Layihe Plant\En teze back end 12.02.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\Final Layihe Plant\En teze back end 12.02.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\Final Layihe Plant\En teze back end 12.02.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\Final Layihe Plant\En teze back end 12.02.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\Final Layihe Plant\En teze back end 12.02.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\Final Layihe Plant\En teze back end 12.02.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\Final Layihe Plant\En teze back end 12.02.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\Namotion.Reflection.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\Final Layihe Plant\En teze back end 12.02.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\Final Layihe Plant\En teze back end 12.02.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\NJsonSchema.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\Final Layihe Plant\En teze back end 12.02.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\NJsonSchema.Yaml.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\Final Layihe Plant\En teze back end 12.02.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\NSwag.Annotations.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\Final Layihe Plant\En teze back end 12.02.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\NSwag.AspNetCore.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\Final Layihe Plant\En teze back end 12.02.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\NSwag.Core.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\Final Layihe Plant\En teze back end 12.02.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\NSwag.Core.Yaml.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\Final Layihe Plant\En teze back end 12.02.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\NSwag.Generation.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\Final Layihe Plant\En teze back end 12.02.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\NSwag.Generation.AspNetCore.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\Final Layihe Plant\En teze back end 12.02.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\Final Layihe Plant\En teze back end 12.02.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\Final Layihe Plant\En teze back end 12.02.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\Final Layihe Plant\En teze back end 12.02.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\Final Layihe Plant\En teze back end 12.02.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\Final Layihe Plant\En teze back end 12.02.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\Final Layihe Plant\En teze back end 12.02.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\Final Layihe Plant\En teze back end 12.02.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\System.IO.Pipelines.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\Final Layihe Plant\En teze back end 12.02.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\Final Layihe Plant\En teze back end 12.02.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\Final Layihe Plant\En teze back end 12.02.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\Final Layihe Plant\En teze back end 12.02.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\Final Layihe Plant\En teze back end 12.02.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\YamlDotNet.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\Final Layihe Plant\En teze back end 12.02.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\Final Layihe Plant\En teze back end 12.02.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\Final Layihe Plant\En teze back end 12.02.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\Final Layihe Plant\En teze back end 12.02.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\Final Layihe Plant\En teze back end 12.02.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\Final Layihe Plant\En teze back end 12.02.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\Final Layihe Plant\En teze back end 12.02.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\Final Layihe Plant\En teze back end 12.02.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\Final Layihe Plant\En teze back end 12.02.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\Final Layihe Plant\En teze back end 12.02.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\Final Layihe Plant\En teze back end 12.02.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\Final Layihe Plant\En teze back end 12.02.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\Final Layihe Plant\En teze back end 12.02.23\MS_PlantOrg_finish\MS_PlantOrg\obj\Debug\net6.0\MS_PlantOrg.csproj.AssemblyReference.cache
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\Final Layihe Plant\En teze back end 12.02.23\MS_PlantOrg_finish\MS_PlantOrg\obj\Debug\net6.0\MS_PlantOrg.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\Final Layihe Plant\En teze back end 12.02.23\MS_PlantOrg_finish\MS_PlantOrg\obj\Debug\net6.0\MS_PlantOrg.AssemblyInfoInputs.cache
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\Final Layihe Plant\En teze back end 12.02.23\MS_PlantOrg_finish\MS_PlantOrg\obj\Debug\net6.0\MS_PlantOrg.AssemblyInfo.cs
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\Final Layihe Plant\En teze back end 12.02.23\MS_PlantOrg_finish\MS_PlantOrg\obj\Debug\net6.0\MS_PlantOrg.csproj.CoreCompileInputs.cache
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\Final Layihe Plant\En teze back end 12.02.23\MS_PlantOrg_finish\MS_PlantOrg\obj\Debug\net6.0\MS_PlantOrg.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\Final Layihe Plant\En teze back end 12.02.23\MS_PlantOrg_finish\MS_PlantOrg\obj\Debug\net6.0\MS_PlantOrg.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\Final Layihe Plant\En teze back end 12.02.23\MS_PlantOrg_finish\MS_PlantOrg\obj\Debug\net6.0\staticwebassets\msbuild.MS_PlantOrg.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\Final Layihe Plant\En teze back end 12.02.23\MS_PlantOrg_finish\MS_PlantOrg\obj\Debug\net6.0\staticwebassets\msbuild.build.MS_PlantOrg.props
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\Final Layihe Plant\En teze back end 12.02.23\MS_PlantOrg_finish\MS_PlantOrg\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.MS_PlantOrg.props
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\Final Layihe Plant\En teze back end 12.02.23\MS_PlantOrg_finish\MS_PlantOrg\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.MS_PlantOrg.props
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\Final Layihe Plant\En teze back end 12.02.23\MS_PlantOrg_finish\MS_PlantOrg\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\Final Layihe Plant\En teze back end 12.02.23\MS_PlantOrg_finish\MS_PlantOrg\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\Final Layihe Plant\En teze back end 12.02.23\MS_PlantOrg_finish\MS_PlantOrg\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\Final Layihe Plant\En teze back end 12.02.23\MS_PlantOrg_finish\MS_PlantOrg\obj\Debug\net6.0\scopedcss\bundle\MS_PlantOrg.styles.css
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\Final Layihe Plant\En teze back end 12.02.23\MS_PlantOrg_finish\MS_PlantOrg\obj\Debug\net6.0\MS_PlantOrg.csproj.CopyComplete
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\Final Layihe Plant\En teze back end 12.02.23\MS_PlantOrg_finish\MS_PlantOrg\obj\Debug\net6.0\MS_PlantOrg.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\Final Layihe Plant\En teze back end 12.02.23\MS_PlantOrg_finish\MS_PlantOrg\obj\Debug\net6.0\refint\MS_PlantOrg.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\Final Layihe Plant\En teze back end 12.02.23\MS_PlantOrg_finish\MS_PlantOrg\obj\Debug\net6.0\MS_PlantOrg.pdb
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\Final Layihe Plant\En teze back end 12.02.23\MS_PlantOrg_finish\MS_PlantOrg\obj\Debug\net6.0\MS_PlantOrg.genruntimeconfig.cache
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\Final Layihe Plant\En teze back end 12.02.23\MS_PlantOrg_finish\MS_PlantOrg\obj\Debug\net6.0\ref\MS_PlantOrg.dll
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\Final Layihe Plant\En teze back end 12.02.23\MS_PlantOrg_finish\MS_PlantOrg\obj\Debug\net6.0\MS_PlantOrg.Resources.SharedResource-az-AZE.resources
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\Final Layihe Plant\En teze back end 12.02.23\MS_PlantOrg_finish\MS_PlantOrg\obj\Debug\net6.0\MS_PlantOrg.Resources.SharedResource-en-US.resources
+C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\Final Layihe Plant\En teze back end 12.02.23\MS_PlantOrg_finish\MS_PlantOrg\obj\Debug\net6.0\MS_PlantOrg.csproj.GenerateResource.cache
+D:\PlantLayihe\En teze back end 12.02.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\appsettings.Development.json
+D:\PlantLayihe\En teze back end 12.02.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\appsettings.json
+D:\PlantLayihe\En teze back end 12.02.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\MS_PlantOrg.staticwebassets.runtime.json
+D:\PlantLayihe\En teze back end 12.02.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\MS_PlantOrg.exe
+D:\PlantLayihe\En teze back end 12.02.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\MS_PlantOrg.deps.json
+D:\PlantLayihe\En teze back end 12.02.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\MS_PlantOrg.runtimeconfig.json
+D:\PlantLayihe\En teze back end 12.02.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\MS_PlantOrg.dll
+D:\PlantLayihe\En teze back end 12.02.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\MS_PlantOrg.pdb
+D:\PlantLayihe\En teze back end 12.02.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\Humanizer.dll
+D:\PlantLayihe\En teze back end 12.02.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\PlantLayihe\En teze back end 12.02.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\Microsoft.AspNetCore.Connections.Abstractions.dll
+D:\PlantLayihe\En teze back end 12.02.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\Microsoft.AspNetCore.Http.Connections.Client.dll
+D:\PlantLayihe\En teze back end 12.02.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\Microsoft.AspNetCore.Http.Connections.Common.dll
+D:\PlantLayihe\En teze back end 12.02.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\Microsoft.AspNetCore.SignalR.Client.dll
+D:\PlantLayihe\En teze back end 12.02.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\Microsoft.AspNetCore.SignalR.Client.Core.dll
+D:\PlantLayihe\En teze back end 12.02.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\Microsoft.AspNetCore.SignalR.Common.dll
+D:\PlantLayihe\En teze back end 12.02.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+D:\PlantLayihe\En teze back end 12.02.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\PlantLayihe\En teze back end 12.02.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\PlantLayihe\En teze back end 12.02.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\PlantLayihe\En teze back end 12.02.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\PlantLayihe\En teze back end 12.02.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\PlantLayihe\En teze back end 12.02.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\PlantLayihe\En teze back end 12.02.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\PlantLayihe\En teze back end 12.02.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\PlantLayihe\En teze back end 12.02.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\Microsoft.Extensions.Features.dll
+D:\PlantLayihe\En teze back end 12.02.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\PlantLayihe\En teze back end 12.02.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\PlantLayihe\En teze back end 12.02.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\PlantLayihe\En teze back end 12.02.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\PlantLayihe\En teze back end 12.02.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\PlantLayihe\En teze back end 12.02.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\PlantLayihe\En teze back end 12.02.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\PlantLayihe\En teze back end 12.02.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\PlantLayihe\En teze back end 12.02.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\PlantLayihe\En teze back end 12.02.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\Namotion.Reflection.dll
+D:\PlantLayihe\En teze back end 12.02.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\PlantLayihe\En teze back end 12.02.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\NJsonSchema.dll
+D:\PlantLayihe\En teze back end 12.02.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\NJsonSchema.Yaml.dll
+D:\PlantLayihe\En teze back end 12.02.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\NSwag.Annotations.dll
+D:\PlantLayihe\En teze back end 12.02.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\NSwag.AspNetCore.dll
+D:\PlantLayihe\En teze back end 12.02.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\NSwag.Core.dll
+D:\PlantLayihe\En teze back end 12.02.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\NSwag.Core.Yaml.dll
+D:\PlantLayihe\En teze back end 12.02.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\NSwag.Generation.dll
+D:\PlantLayihe\En teze back end 12.02.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\NSwag.Generation.AspNetCore.dll
+D:\PlantLayihe\En teze back end 12.02.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\PlantLayihe\En teze back end 12.02.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\PlantLayihe\En teze back end 12.02.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\PlantLayihe\En teze back end 12.02.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\PlantLayihe\En teze back end 12.02.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\PlantLayihe\En teze back end 12.02.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\PlantLayihe\En teze back end 12.02.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\PlantLayihe\En teze back end 12.02.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\System.IO.Pipelines.dll
+D:\PlantLayihe\En teze back end 12.02.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\PlantLayihe\En teze back end 12.02.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\PlantLayihe\En teze back end 12.02.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\PlantLayihe\En teze back end 12.02.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\PlantLayihe\En teze back end 12.02.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\YamlDotNet.dll
+D:\PlantLayihe\En teze back end 12.02.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\PlantLayihe\En teze back end 12.02.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\PlantLayihe\En teze back end 12.02.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\PlantLayihe\En teze back end 12.02.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\PlantLayihe\En teze back end 12.02.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\PlantLayihe\En teze back end 12.02.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\PlantLayihe\En teze back end 12.02.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\PlantLayihe\En teze back end 12.02.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\PlantLayihe\En teze back end 12.02.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\PlantLayihe\En teze back end 12.02.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\PlantLayihe\En teze back end 12.02.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\PlantLayihe\En teze back end 12.02.23\MS_PlantOrg_finish\MS_PlantOrg\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\PlantLayihe\En teze back end 12.02.23\MS_PlantOrg_finish\MS_PlantOrg\obj\Debug\net6.0\MS_PlantOrg.csproj.AssemblyReference.cache
+D:\PlantLayihe\En teze back end 12.02.23\MS_PlantOrg_finish\MS_PlantOrg\obj\Debug\net6.0\MS_PlantOrg.Resources.SharedResource-az-AZE.resources
+D:\PlantLayihe\En teze back end 12.02.23\MS_PlantOrg_finish\MS_PlantOrg\obj\Debug\net6.0\MS_PlantOrg.Resources.SharedResource-en-US.resources
+D:\PlantLayihe\En teze back end 12.02.23\MS_PlantOrg_finish\MS_PlantOrg\obj\Debug\net6.0\MS_PlantOrg.csproj.GenerateResource.cache
+D:\PlantLayihe\En teze back end 12.02.23\MS_PlantOrg_finish\MS_PlantOrg\obj\Debug\net6.0\MS_PlantOrg.GeneratedMSBuildEditorConfig.editorconfig
+D:\PlantLayihe\En teze back end 12.02.23\MS_PlantOrg_finish\MS_PlantOrg\obj\Debug\net6.0\MS_PlantOrg.AssemblyInfoInputs.cache
+D:\PlantLayihe\En teze back end 12.02.23\MS_PlantOrg_finish\MS_PlantOrg\obj\Debug\net6.0\MS_PlantOrg.AssemblyInfo.cs
+D:\PlantLayihe\En teze back end 12.02.23\MS_PlantOrg_finish\MS_PlantOrg\obj\Debug\net6.0\MS_PlantOrg.csproj.CoreCompileInputs.cache
+D:\PlantLayihe\En teze back end 12.02.23\MS_PlantOrg_finish\MS_PlantOrg\obj\Debug\net6.0\MS_PlantOrg.MvcApplicationPartsAssemblyInfo.cs
+D:\PlantLayihe\En teze back end 12.02.23\MS_PlantOrg_finish\MS_PlantOrg\obj\Debug\net6.0\MS_PlantOrg.MvcApplicationPartsAssemblyInfo.cache
+D:\PlantLayihe\En teze back end 12.02.23\MS_PlantOrg_finish\MS_PlantOrg\obj\Debug\net6.0\staticwebassets.build.json
+D:\PlantLayihe\En teze back end 12.02.23\MS_PlantOrg_finish\MS_PlantOrg\obj\Debug\net6.0\staticwebassets.development.json
+D:\PlantLayihe\En teze back end 12.02.23\MS_PlantOrg_finish\MS_PlantOrg\obj\Debug\net6.0\staticwebassets\msbuild.MS_PlantOrg.Microsoft.AspNetCore.StaticWebAssets.props
+D:\PlantLayihe\En teze back end 12.02.23\MS_PlantOrg_finish\MS_PlantOrg\obj\Debug\net6.0\staticwebassets\msbuild.build.MS_PlantOrg.props
+D:\PlantLayihe\En teze back end 12.02.23\MS_PlantOrg_finish\MS_PlantOrg\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.MS_PlantOrg.props
+D:\PlantLayihe\En teze back end 12.02.23\MS_PlantOrg_finish\MS_PlantOrg\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.MS_PlantOrg.props
+D:\PlantLayihe\En teze back end 12.02.23\MS_PlantOrg_finish\MS_PlantOrg\obj\Debug\net6.0\staticwebassets.pack.json
+D:\PlantLayihe\En teze back end 12.02.23\MS_PlantOrg_finish\MS_PlantOrg\obj\Debug\net6.0\scopedcss\bundle\MS_PlantOrg.styles.css
+D:\PlantLayihe\En teze back end 12.02.23\MS_PlantOrg_finish\MS_PlantOrg\obj\Debug\net6.0\MS_Plant.F902266D.Up2Date
+D:\PlantLayihe\En teze back end 12.02.23\MS_PlantOrg_finish\MS_PlantOrg\obj\Debug\net6.0\MS_PlantOrg.dll
+D:\PlantLayihe\En teze back end 12.02.23\MS_PlantOrg_finish\MS_PlantOrg\obj\Debug\net6.0\refint\MS_PlantOrg.dll
+D:\PlantLayihe\En teze back end 12.02.23\MS_PlantOrg_finish\MS_PlantOrg\obj\Debug\net6.0\MS_PlantOrg.pdb
+D:\PlantLayihe\En teze back end 12.02.23\MS_PlantOrg_finish\MS_PlantOrg\obj\Debug\net6.0\MS_PlantOrg.genruntimeconfig.cache
+D:\PlantLayihe\En teze back end 12.02.23\MS_PlantOrg_finish\MS_PlantOrg\obj\Debug\net6.0\ref\MS_PlantOrg.dll

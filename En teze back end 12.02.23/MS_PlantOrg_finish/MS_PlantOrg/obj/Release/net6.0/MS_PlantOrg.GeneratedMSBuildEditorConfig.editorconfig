@@ -1,0 +1,17 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = MS_PlantOrg
+build_property.RootNamespace = MS_PlantOrg
+build_property.ProjectDir = C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze full stack 11.28.23\En teze back end 11.28.23\MS_PlantOrg_finish\MS_PlantOrg\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\Eltun\OneDrive - Azerbaijan State Oil and Industry University\Desktop\En teze full stack 11.28.23\En teze back end 11.28.23\MS_PlantOrg_finish\MS_PlantOrg
+build_property._RazorSourceGeneratorDebug = 

@@ -1,0 +1,1232 @@
+[
+  {
+    "ContainingType": "MS_PlantOrg.Controllers.AdminController",
+    "Method": "AddOP",
+    "RelativePath": "api/Admin/addOP",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "OperatorP",
+        "Type": "MS_PlantOrg.Models.OperatorPlant",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MS_PlantOrg.Controllers.AdminController",
+    "Method": "AddOPT",
+    "RelativePath": "api/Admin/addOPT",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "operatorPT",
+        "Type": "MS_PlantOrg.Models.OperatorPlantType",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MS_PlantOrg.Controllers.AdminController",
+    "Method": "AddPlant",
+    "RelativePath": "api/Admin/addPlant",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "plant",
+        "Type": "MS_PlantOrg.Models.Plant",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MS_PlantOrg.Controllers.AdminController",
+    "Method": "AddPlantType",
+    "RelativePath": "api/Admin/addPlantType",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "plantType",
+        "Type": "MS_PlantOrg.Models.PlantType",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MS_PlantOrg.Controllers.AdminController",
+    "Method": "AddUser",
+    "RelativePath": "api/Admin/addUser",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "u",
+        "Type": "MS_PlantOrg.Models.User",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MS_PlantOrg.Controllers.AdminController",
+    "Method": "DeleteOP",
+    "RelativePath": "api/Admin/deleteOP",
+    "HttpMethod": "",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MS_PlantOrg.Controllers.AdminController",
+    "Method": "DeleteOP",
+    "RelativePath": "api/Admin/DeleteOP/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MS_PlantOrg.Controllers.AdminController",
+    "Method": "DeleteOPT",
+    "RelativePath": "api/Admin/deleteOPT",
+    "HttpMethod": "",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MS_PlantOrg.Controllers.AdminController",
+    "Method": "DeleteOPT",
+    "RelativePath": "api/Admin/DeleteOPT/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MS_PlantOrg.Controllers.AdminController",
+    "Method": "DeletePlant",
+    "RelativePath": "api/Admin/deletePlant",
+    "HttpMethod": "",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MS_PlantOrg.Controllers.AdminController",
+    "Method": "DeletePlant",
+    "RelativePath": "api/Admin/DeletePlant/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MS_PlantOrg.Controllers.AdminController",
+    "Method": "DeletePlantType",
+    "RelativePath": "api/Admin/deletePlantType",
+    "HttpMethod": "",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MS_PlantOrg.Controllers.AdminController",
+    "Method": "DeletePlantType",
+    "RelativePath": "api/Admin/DeletePlantType/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MS_PlantOrg.Controllers.AdminController",
+    "Method": "DeleteUser",
+    "RelativePath": "api/Admin/deleteUser",
+    "HttpMethod": "",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MS_PlantOrg.Controllers.AdminController",
+    "Method": "DeleteUser",
+    "RelativePath": "api/Admin/DeleteUser/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MS_PlantOrg.Controllers.AdminController",
+    "Method": "GetAppeal",
+    "RelativePath": "api/Admin/getAppeal",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MS_PlantOrg.Controllers.AdminController",
+    "Method": "GetCity",
+    "RelativePath": "api/Admin/getCity",
+    "HttpMethod": "",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MS_PlantOrg.Controllers.AdminController",
+    "Method": "GetCity",
+    "RelativePath": "api/Admin/GetCity/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MS_PlantOrg.Controllers.AdminController",
+    "Method": "GetCountry",
+    "RelativePath": "api/Admin/getCountry",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MS_PlantOrg.Controllers.AdminController",
+    "Method": "getMessages",
+    "RelativePath": "api/Admin/getMessages",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MS_PlantOrg.Controllers.AdminController",
+    "Method": "GetOP",
+    "RelativePath": "api/Admin/GetOP",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MS_PlantOrg.Controllers.AdminController",
+    "Method": "getOperators",
+    "RelativePath": "api/Admin/getOperators",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MS_PlantOrg.Controllers.AdminController",
+    "Method": "GetOPT",
+    "RelativePath": "api/Admin/getOPT",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[MS_PlantOrg.Models.OperatorPlantType, MS_PlantOrg, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "MS_PlantOrg.Controllers.AdminController",
+    "Method": "GetPlant",
+    "RelativePath": "api/Admin/getPlant",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MS_PlantOrg.Controllers.AdminController",
+    "Method": "GetPlantType",
+    "RelativePath": "api/Admin/getPlantType",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MS_PlantOrg.Controllers.AdminController",
+    "Method": "GetRating",
+    "RelativePath": "api/Admin/getRating",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MS_PlantOrg.Controllers.AdminController",
+    "Method": "GetStatuse",
+    "RelativePath": "api/Admin/getStatuse",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MS_PlantOrg.Controllers.AdminController",
+    "Method": "GetUser",
+    "RelativePath": "api/Admin/getUser",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MS_PlantOrg.Controllers.AdminController",
+    "Method": "UpdateOP",
+    "RelativePath": "api/Admin/updateOP",
+    "HttpMethod": "",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "OperatorP",
+        "Type": "MS_PlantOrg.Models.OperatorPlant",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MS_PlantOrg.Controllers.AdminController",
+    "Method": "UpdateOP",
+    "RelativePath": "api/Admin/UpdateOP/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "OperatorP",
+        "Type": "MS_PlantOrg.Models.OperatorPlant",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MS_PlantOrg.Controllers.AdminController",
+    "Method": "UpdateOPT",
+    "RelativePath": "api/Admin/updateOPT",
+    "HttpMethod": "",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "operatorPT",
+        "Type": "MS_PlantOrg.Models.OperatorPlantType",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MS_PlantOrg.Controllers.AdminController",
+    "Method": "UpdateOPT",
+    "RelativePath": "api/Admin/UpdateOPT/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "operatorPT",
+        "Type": "MS_PlantOrg.Models.OperatorPlantType",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MS_PlantOrg.Controllers.AdminController",
+    "Method": "UpdatePLant",
+    "RelativePath": "api/Admin/updatePlant",
+    "HttpMethod": "",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "plant",
+        "Type": "MS_PlantOrg.Models.Plant",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MS_PlantOrg.Controllers.AdminController",
+    "Method": "UpdatePLant",
+    "RelativePath": "api/Admin/UpdatePlant/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "plant",
+        "Type": "MS_PlantOrg.Models.Plant",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MS_PlantOrg.Controllers.AdminController",
+    "Method": "UpdatePlantType",
+    "RelativePath": "api/Admin/updatePlantType",
+    "HttpMethod": "",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "pt",
+        "Type": "MS_PlantOrg.Models.PlantType",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MS_PlantOrg.Controllers.AdminController",
+    "Method": "UpdatePlantType",
+    "RelativePath": "api/Admin/UpdatePlantType/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "pt",
+        "Type": "MS_PlantOrg.Models.PlantType",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MS_PlantOrg.Controllers.AdminController",
+    "Method": "UpdateUser",
+    "RelativePath": "api/Admin/updateUser",
+    "HttpMethod": "",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "updUser",
+        "Type": "MS_PlantOrg.Models.User",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MS_PlantOrg.Controllers.AdminController",
+    "Method": "UpdateUser",
+    "RelativePath": "api/Admin/UpdateUser/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "updUser",
+        "Type": "MS_PlantOrg.Models.User",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MS_PlantOrg.Controllers.HomeController",
+    "Method": "RateOperator",
+    "RelativePath": "api/Home/rateOperator/{operatorId}/{userId}/{rateValue}",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "operatorId",
+        "Type": "System.String",
+        "IsRequired": true
+      },
+      {
+        "Name": "userId",
+        "Type": "System.String",
+        "IsRequired": true
+      },
+      {
+        "Name": "rateValue",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MS_PlantOrg.Controllers.HomeController",
+    "Method": "ReceiveAudio",
+    "RelativePath": "api/Home/receiveaudio/{userDbId}/{operatorDbId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userDbId",
+        "Type": "System.String",
+        "IsRequired": true
+      },
+      {
+        "Name": "operatorDbId",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MS_PlantOrg.Controllers.HomeController",
+    "Method": "ReceiveFirst\u0130mage",
+    "RelativePath": "api/Home/receivefirstimage/{userId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userId",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MS_PlantOrg.Controllers.HomeController",
+    "Method": "ReceiveFirstVideo",
+    "RelativePath": "api/Home/receivefirstvideo/{userId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userId",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MS_PlantOrg.Controllers.HomeController",
+    "Method": "ReceiveImage",
+    "RelativePath": "api/Home/receiveimage/{userDbId}/{operatorDbId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userDbId",
+        "Type": "System.String",
+        "IsRequired": true
+      },
+      {
+        "Name": "operatorDbId",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MS_PlantOrg.Controllers.HomeController",
+    "Method": "ReceiveOldAudio",
+    "RelativePath": "api/Home/receiveoldaudio/{audioPath}/{userDbId}/{operatorDbId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "audioPath",
+        "Type": "System.String",
+        "IsRequired": true
+      },
+      {
+        "Name": "userDbId",
+        "Type": "System.String",
+        "IsRequired": true
+      },
+      {
+        "Name": "operatorDbId",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MS_PlantOrg.Controllers.HomeController",
+    "Method": "ReceiveOldImage",
+    "RelativePath": "api/Home/receiveoldimage/{imagePath}/{userDbId}/{operatorDbId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "imagePath",
+        "Type": "System.String",
+        "IsRequired": true
+      },
+      {
+        "Name": "userDbId",
+        "Type": "System.String",
+        "IsRequired": true
+      },
+      {
+        "Name": "operatorDbId",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MS_PlantOrg.Controllers.HomeController",
+    "Method": "ReceiveOldMessage",
+    "RelativePath": "api/Home/receiveoldmessage/{messageId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "messageId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MS_PlantOrg.Controllers.HomeController",
+    "Method": "ReceiveOldVideo",
+    "RelativePath": "api/Home/receiveoldvideo/{videoPath}/{userDbId}/{operatorDbId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "videoPath",
+        "Type": "System.String",
+        "IsRequired": true
+      },
+      {
+        "Name": "userDbId",
+        "Type": "System.String",
+        "IsRequired": true
+      },
+      {
+        "Name": "operatorDbId",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MS_PlantOrg.Controllers.HomeController",
+    "Method": "ReceiveVideo",
+    "RelativePath": "api/Home/receivevideo/{userDbId}/{operatorDbId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userDbId",
+        "Type": "System.String",
+        "IsRequired": true
+      },
+      {
+        "Name": "operatorDbId",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MS_PlantOrg.Controllers.HomeController",
+    "Method": "SendAudio",
+    "RelativePath": "api/Home/sendaudio",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "UserId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "OperatorId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "Audio",
+        "Type": "Microsoft.AspNetCore.Http.IFormFile",
+        "IsRequired": false
+      },
+      {
+        "Name": "SendByUser",
+        "Type": "System.Boolean",
+        "IsRequired": false
+      },
+      {
+        "Name": "UserName",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "SendDate",
+        "Type": "System.DateTime",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MS_PlantOrg.Controllers.HomeController",
+    "Method": "SendFirstImage",
+    "RelativePath": "api/Home/sendfirstimage",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "UserId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "Photo",
+        "Type": "Microsoft.AspNetCore.Http.IFormFile",
+        "IsRequired": false
+      },
+      {
+        "Name": "SendDate",
+        "Type": "System.DateTime",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MS_PlantOrg.Controllers.HomeController",
+    "Method": "SendFirstVideo",
+    "RelativePath": "api/Home/sendfirstvideo",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "UserId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "Video",
+        "Type": "Microsoft.AspNetCore.Http.IFormFile",
+        "IsRequired": false
+      },
+      {
+        "Name": "SendDate",
+        "Type": "System.DateTime",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MS_PlantOrg.Controllers.HomeController",
+    "Method": "SendImage",
+    "RelativePath": "api/Home/sendimage",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "UserId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "OperatorId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "Photo",
+        "Type": "Microsoft.AspNetCore.Http.IFormFile",
+        "IsRequired": false
+      },
+      {
+        "Name": "SendByUser",
+        "Type": "System.Boolean",
+        "IsRequired": false
+      },
+      {
+        "Name": "UserName",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "SendDate",
+        "Type": "System.DateTime",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MS_PlantOrg.Controllers.HomeController",
+    "Method": "SendVideo",
+    "RelativePath": "api/Home/sendvideo",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "UserId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "OperatorId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "Video",
+        "Type": "Microsoft.AspNetCore.Http.IFormFile",
+        "IsRequired": false
+      },
+      {
+        "Name": "SendByUser",
+        "Type": "System.Boolean",
+        "IsRequired": false
+      },
+      {
+        "Name": "SendDate",
+        "Type": "System.DateTime",
+        "IsRequired": false
+      },
+      {
+        "Name": "UserName",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MS_PlantOrg.Controllers.LoginController",
+    "Method": "GetUsers",
+    "RelativePath": "api/Login",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[MS_PlantOrg.Models.User, MS_PlantOrg, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "MS_PlantOrg.Controllers.LoginController",
+    "Method": "ChangeToAze",
+    "RelativePath": "api/Login/changetoaze",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MS_PlantOrg.Controllers.LoginController",
+    "Method": "GetProfilePhoto",
+    "RelativePath": "api/Login/getprofilephoto/{userId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MS_PlantOrg.Controllers.LoginController",
+    "Method": "Giris",
+    "RelativePath": "api/Login/giris",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "u",
+        "Type": "MS_PlantOrg.Models.User",
+        "IsRequired": true
+      },
+      {
+        "Name": "url",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MS_PlantOrg.Controllers.LoginController",
+    "Method": "Register",
+    "RelativePath": "api/Login/register",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "UserId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "UserName",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "UserSurname",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "UserStatusId",
+        "Type": "System.Nullable\u00601[[System.Int32, System.Private.CoreLib, Version=6.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      },
+      {
+        "Name": "UserPhone",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "UserEmail",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "UserPassword",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "UserCountryId",
+        "Type": "System.Nullable\u00601[[System.Int32, System.Private.CoreLib, Version=6.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      },
+      {
+        "Name": "UserCityId",
+        "Type": "System.Nullable\u00601[[System.Int32, System.Private.CoreLib, Version=6.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      },
+      {
+        "Name": "UserRegDate",
+        "Type": "System.Nullable\u00601[[System.DateTime, System.Private.CoreLib, Version=6.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      },
+      {
+        "Name": "UserProfilePhotoUrl",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "UserPhoto",
+        "Type": "Microsoft.AspNetCore.Http.IFormFile",
+        "IsRequired": false
+      },
+      {
+        "Name": "UserCity.CityId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "UserCity.CityName",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "UserCity.CityCountryId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "UserCity.CityCountry.CountryId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "UserCity.CityCountry.CountryName",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "UserCity.CityCountry.CountryCode",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "UserCity.CityCountry.Cities",
+        "Type": "System.Collections.Generic.ICollection\u00601[[MS_PlantOrg.Models.City, MS_PlantOrg, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "IsRequired": false
+      },
+      {
+        "Name": "UserCity.CityCountry.Users",
+        "Type": "System.Collections.Generic.ICollection\u00601[[MS_PlantOrg.Models.User, MS_PlantOrg, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "IsRequired": false
+      },
+      {
+        "Name": "UserCity.Users",
+        "Type": "System.Collections.Generic.ICollection\u00601[[MS_PlantOrg.Models.User, MS_PlantOrg, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "IsRequired": false
+      },
+      {
+        "Name": "UserCountry.CountryId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "UserCountry.CountryName",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "UserCountry.CountryCode",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "UserCountry.Cities",
+        "Type": "System.Collections.Generic.ICollection\u00601[[MS_PlantOrg.Models.City, MS_PlantOrg, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "IsRequired": false
+      },
+      {
+        "Name": "UserCountry.Users",
+        "Type": "System.Collections.Generic.ICollection\u00601[[MS_PlantOrg.Models.User, MS_PlantOrg, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "IsRequired": false
+      },
+      {
+        "Name": "UserStatus.StatusId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "UserStatus.StatusName",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "UserStatus.Users",
+        "Type": "System.Collections.Generic.ICollection\u00601[[MS_PlantOrg.Models.User, MS_PlantOrg, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
